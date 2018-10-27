@@ -12,6 +12,14 @@ export function ObjectCard({ object }) {
         }`}
         alt={object.description}
       />
+
+      <dl>
+        <dt>
+          Dateperiod: {object.yearfrom} / {object.yearto}
+        </dt>
+        <dt>Origin: {object.origin ? object.origin.name : ""}</dt>
+        <dt>Producer: {object.producer ? object.producer.name : ""}</dt>
+      </dl>
     </Link>
   );
 }

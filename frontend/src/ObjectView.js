@@ -7,18 +7,7 @@ import { RandomObjectCard } from "./RandomObjectCard";
 import { Loader } from "./Loader";
 import { Error } from "./Error";
 import { SimilarObjectCard } from "./SimilarObjectCard";
-
-/**
- * Shuffles array in place. ES6 version
- * @param {Array} a items An array containing the items.
- */
-function shuffle(a) {
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
+import { RelatedObjects } from "./RelatedObjects";
 
 export function ObjectView(props) {
   const objectId = props.match.params.objectId;
@@ -26,7 +15,7 @@ export function ObjectView(props) {
 
   if (objectId) {
     query = gql`
-      query QueryObjectById($id: ID) {
+      query QueryObjectById($id: ID!) {
         objects(first: 1, where: { id: $id }) {
           ...ObjectDetailsFragment
         }
@@ -57,26 +46,10 @@ export function ObjectView(props) {
 
         const [object] = data.objects;
 
-        const cards = [
-          <RandomObjectCard key="random" />,
-          <SimilarObjectCard
-            numMatchingCriterias={1}
-            to={object}
-            key="similar1"
-          />,
-          <SimilarObjectCard
-            numMatchingCriterias={2}
-            to={object}
-            key="similar2"
-          />
-        ];
-
-        shuffle(cards);
-
         return (
           <div>
             <ObjectCard object={object} />
-            {cards}
+            <RelatedObjects to={object} />
           </div>
         );
       }}

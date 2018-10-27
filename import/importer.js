@@ -22,8 +22,8 @@ const client = new ApolloClient({
 
 async function importObjects() {
   const csv = fs.readFileSync(
-    path.join(__dirname, "./raw/Technologie_Brauchtum.csv"),
-    "utf-8"
+    path.join(__dirname, "raw/Kutschen_Schlitten_Fahrzeuge_date_ed.csv"),
+    "latin1"
   );
   const data = papa.parse(csv, { header: true });
 

@@ -3,72 +3,84 @@ import { Query } from "react-apollo";
 import gql from "graphql-tag";
 import { Loader } from "./Loader";
 import { Error } from "./Error";
-import { ObjectDetailsFragment } from "./fragments";
+import {
+  ObjectDetailsFragment,
+  SameYearWhereClause,
+  SameProducerWhereClause,
+  SameClassificationWhereClause,
+  SameProducerAndYearWhereClause,
+  SameClassificationAndYearWhereClause,
+  SameClassificationAndProducerWhereClause
+} from "./fragments";
 import { randomSkip } from "./util";
 import { ObjectCard } from "./ObjectCard";
 
-function pickOne(from) {
-  const index = (Math.random() * from.length) | 0;
-  const [item] = from.splice(index, 1);
-  return item;
-}
+function buildQuery(criteria, to, count) {
+  let includeYearVariables = false;
+  let whereClause;
 
-function selectCriteriasFor(object, numMatchingCriterias) {
-  const possibleCriterias = ["year"];
+  switch (criteria) {
+    case "year":
+      includeYearVariables = true;
 
-  if (object.origin) {
-    possibleCriterias.push("origin");
+      whereClause = SameYearWhereClause;
+      break;
+
+    case "producer":
+      whereClause = SameProducerWhereClause;
+      break;
+
+    case "classification":
+      whereClause = SameClassificationWhereClause;
+      break;
+
+    case "producerAndYear":
+      includeYearVariables = true;
+      whereClause = SameProducerAndYearWhereClause;
+      break;
+
+    case "classificationAndYear":
+      includeYearVariables = true;
+      whereClause = SameClassificationAndYearWhereClause;
+      break;
+
+    case "classificationAndProducer":
+      whereClause = SameClassificationAndProducerWhereClause;
+      break;
+
+    default:
+      throw new Error(`Unknown criteria ${criteria}`);
   }
 
-  if (object.producer) {
-    possibleCriterias.push("producer");
+  let variableDeclaration = "$skip: Int!, $id: ID!";
+  let variables = { id: to.id, skip: randomSkip(count) };
+
+  if (includeYearVariables) {
+    variables = {
+      ...variables,
+      yearFrom: to.yearfrom,
+      yearTo: to.yearto
+    };
+
+    variableDeclaration += "$yearFrom: Int!, $yearTo: Int!";
   }
 
-  if (object.classification) {
-    possibleCriterias.push("classification");
-  }
-
-  const selectedCriterias = [];
-  for (let i = 0; i < numMatchingCriterias; ++i) {
-    selectedCriterias.push(pickOne(possibleCriterias));
-  }
-
-  return selectedCriterias;
-}
-
-function buildWhereClause(to, numMatchingCriterias) {
-  let where = `where: { id_not: "${to.id}"\n`;
-
-  for (const criteria of selectCriteriasFor(to, numMatchingCriterias)) {
-    if (criteria === "year") {
-      where += `AND: [{yearfrom_lte: ${to.yearto}, yearto_gte: ${
-        to.yearfrom
-      }}]`;
-    } else if (
-      ["origin", "producer", "classification"].indexOf(criteria) !== -1
-    ) {
-      where += `${criteria}: {id: "${to[criteria].id}"}\n`;
+  return {
+    query: gql`query SimilarObjects(${variableDeclaration}) {
+    objects(skip: $skip, first: 1, ${whereClause}) {
+      ...ObjectDetailsFragment
     }
   }
-
-  return where + "}";
+  ${ObjectDetailsFragment}`,
+    variables
+  };
 }
 
-export function SimilarObjectCard({ to, numMatchingCriterias }) {
-  const whereClause = buildWhereClause(to, numMatchingCriterias);
+export function SimilarObjectCard({ to, criteria, count }) {
+  const { query, variables } = buildQuery(criteria, to, count);
 
   return (
-    <Query
-      query={gql`
-      {
-        objectsConnection(${whereClause}) {
-          aggregate {
-            count
-          }
-        }
-      }
-    `}
-    >
+    <Query query={query} variables={variables}>
       {({ loading, error, data }) => {
         if (loading) {
           return <Loader />;
@@ -77,40 +89,7 @@ export function SimilarObjectCard({ to, numMatchingCriterias }) {
           return <Error error={error} />;
         }
 
-        return (
-          <>
-            <Query
-              query={gql`
-                query SimilarObjects($skip: Int) {
-                  objects(skip: $skip, first: 1, ${whereClause}) {
-                    ...ObjectDetailsFragment
-                  }
-                }
-                ${ObjectDetailsFragment}
-              `}
-              variables={{
-                skip: randomSkip(data.objectsConnection.aggregate.count)
-              }}
-            >
-              {({ loading, error, data }) => {
-                if (loading) {
-                  return <Loader />;
-                }
-                if (error) {
-                  return <Error error={error} />;
-                }
-
-                if (data.objects.length === 0) {
-                  return <h1>Nooo</h1>;
-                }
-
-                return <ObjectCard object={data.objects[0]} />;
-              }}
-            </Query>
-            <p>Found Matches {data.objectsConnection.aggregate.count} for </p>
-            {whereClause}
-          </>
-        );
+        return <ObjectCard object={data.objects[0]} />;
       }}
     </Query>
   );

@@ -1,472 +1,472 @@
-OBJEKT ID,OBJEKT Inventarnummer,OBJEKT Sammlung,klassifikation,webtext,datierung,herstellung,herkunft,OBJEKT -> Inhalt,OBJEKT -> Masse,OBJEKT -> Material und Technik
-195343,DEP-1142,Wagen und Schlitten,Schlittenkasten,"In Form eines Löwen, zweisitzig, Lakaiensitz in Herzform. 1700 - 1800. 94 x 203 cm. Holz. ",1700 - 1800  ,,,,"Höhe 94 cm, Breite 203 cm.
-Höhe 94 cm, Breite 203 cm.
-Höhe 94 cm, Länge 214 cm, Breite 55 cm.",Holz.
-195345,DEP-1143,Wagen und Schlitten,Schlittenkasten,"In Form eines Delphins mit geöffnetem Rachen, einsitzig, Meeresungeheuer. 1700 - 1800. 73 x 213 x 59 cm. Holz, bemalt. ",1700 - 1800  ,,,,"Höhe 73 cm, Länge 213 cm, Breite 59 cm.","Holz, bemalt."
-195347,DEP-1144,Wagen und Schlitten,Schlittenkasten,"In Form eines Polsters mit goldenen Quasten, Stabellenlehnen, Blumendekor. 1700 - 1800. 78 x 110 x 33 cm. Holz, bemalt. ",1700 - 1800  ,,,,"Höhe 78 cm, Länge 110 cm, Breite 33 cm.","Holz, bemalt."
-189679,LM-241,Wagen und Schlitten,Schlitten,"Figuren-Reitschlitten in Form eines Löwen, mit Wappen Tobler. 1700 - 1800. 183 x 198 x 78 cm (Länge ohne Landen). geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 183 cm, Länge 198 cm, Breite 78 cm ( Länge ohne Landen).","geschnitzt, bemalt."
-189719,LM-873,Wagen und Schlitten,Schlitten,"Mit gepolstertem Sitz. Als Bekrönung des Bugs ein Mohr. 1700 - 1800. 184 x 230 x 80 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 184 cm, Länge 230 cm, Breite 80 cm.","geschnitzt, bemalt."
+oid,OBJEKT Inventarnummer,OBJEKT Sammlung,klassifikation,webtext,datierung,herstellung,herkunft,OBJEKT -> Inhalt,OBJEKT -> Masse,OBJEKT -> Material und Technik
+195343,DEP-1142,Wagen und Schlitten,Schlittenkasten,"In Form eines Lï¿½wen, zweisitzig, Lakaiensitz in Herzform. 1700 - 1800. 94 x 203 cm. Holz. ",1700 - 1800  ,,,,"Hï¿½he 94 cm, Breite 203 cm.
+Hï¿½he 94 cm, Breite 203 cm.
+Hï¿½he 94 cm, Lï¿½nge 214 cm, Breite 55 cm.",Holz.
+195345,DEP-1143,Wagen und Schlitten,Schlittenkasten,"In Form eines Delphins mit geï¿½ffnetem Rachen, einsitzig, Meeresungeheuer. 1700 - 1800. 73 x 213 x 59 cm. Holz, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 73 cm, Lï¿½nge 213 cm, Breite 59 cm.","Holz, bemalt."
+195347,DEP-1144,Wagen und Schlitten,Schlittenkasten,"In Form eines Polsters mit goldenen Quasten, Stabellenlehnen, Blumendekor. 1700 - 1800. 78 x 110 x 33 cm. Holz, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 78 cm, Lï¿½nge 110 cm, Breite 33 cm.","Holz, bemalt."
+189679,LM-241,Wagen und Schlitten,Schlitten,"Figuren-Reitschlitten in Form eines Lï¿½wen, mit Wappen Tobler. 1700 - 1800. 183 x 198 x 78 cm (Lï¿½nge ohne Landen). geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 183 cm, Lï¿½nge 198 cm, Breite 78 cm ( Lï¿½nge ohne Landen).","geschnitzt, bemalt."
+189719,LM-873,Wagen und Schlitten,Schlitten,"Mit gepolstertem Sitz. Als Bekrï¿½nung des Bugs ein Mohr. 1700 - 1800. 184 x 230 x 80 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 184 cm, Lï¿½nge 230 cm, Breite 80 cm.","geschnitzt, bemalt."
 189733,LM-991,Wagen und Schlitten,Fahrrad,Zweirad. Knabenvelo. Sogenannte 'Draisine'. Datiert 1766. Holz. ,1766,,,,,Holz.
-322966,LM-1122.a,Wagen und Schlitten,Rennschlitten,"Geschnitzt und bemalt. Mit Wappen. 1700 - 1800. 135 x 280 x 70 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 135 cm, Länge 280 cm, Breite 70 cm.","geschnitzt, bemalt."
-189791,LM-1182,Wagen und Schlitten,Schlitten,"Mit Allianzwappen der Meyer von Schauensee. Als Bekrönung ein bemalter Vogelkopf. 1700 - 1800. 168 x 210 x 75 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 168 cm, Länge 210 cm, Breite 75 cm.","geschnitzt, bemalt."
-6939,LM-1224,Wagen und Schlitten,Schlitten,"Beidseitig bemaltes Stirnbrett eines Rennschlittens. Inhalt: Kloster Fischingen (TG), Kloster. Ida von Toggenburg, hl. Herstellung: Anonym. Um 1800. Herkunft: Fischingen (TG), Kloster. 104 x 235 x 82 cm. Stirnbrett: Kupfer, Öl. 
+322966,LM-1122.a,Wagen und Schlitten,Rennschlitten,"Geschnitzt und bemalt. Mit Wappen. 1700 - 1800. 135 x 280 x 70 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 135 cm, Lï¿½nge 280 cm, Breite 70 cm.","geschnitzt, bemalt."
+189791,LM-1182,Wagen und Schlitten,Schlitten,"Mit Allianzwappen der Meyer von Schauensee. Als Bekrï¿½nung ein bemalter Vogelkopf. 1700 - 1800. 168 x 210 x 75 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 168 cm, Lï¿½nge 210 cm, Breite 75 cm.","geschnitzt, bemalt."
+6939,LM-1224,Wagen und Schlitten,Schlitten,"Beidseitig bemaltes Stirnbrett eines Rennschlittens. Inhalt: Kloster Fischingen (TG), Kloster. Ida von Toggenburg, hl. Herstellung: Anonym. Um 1800. Herkunft: Fischingen (TG), Kloster. 104 x 235 x 82 cm. Stirnbrett: Kupfer, ï¿½l. 
 
 Literatur:
-Jahresbericht SLM 1895, S. 47. - Kdm TG 2, 1955, S. 219, Abb. 207, S. 221, Nr. 3. - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 290, Nr. 3.3.17, S. 284, Abb. - Klosteransicht: Kdm TG 2, 1955, S. 75, Abb. 66.- Zur Legende der hl. Idda von Toggenburg: HBLS 4, S. 330. - W. AB HOLENSTEIN, Schweizer Heiligen Legende, Olten 1939, S. 68. - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 129-213. ",1800,Anonym. ,  ,"Kloster Fischingen (TG), Kloster. Ida von Toggenburg, hl. ","Höhe 104 cm, Länge 235 cm, Breite 82 cm.","Stirnbrett: Kupfer, Öl."
-190735,LM-1269,Wagen und Schlitten,Schlittenkasten,zweiteiliger Schlittenkasten in Figur eines Ochsen. 1690 - 1700. 96 x 160 x 66 cm. ,1690 - 1700  ,,,,"Höhe 96 cm, Länge 160 cm, Breite 66 cm.",
-190772,LM-1656.a,Wagen und Schlitten,Schlitten,"Auf beiden Längsseiten je eine Reiterfigur. Bugbekrönung: Sennenfigur. 1700 - 1800. 185 x 225 x 85 cm (ohne Senn (aufsteckb). geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 185 cm, Länge 225 cm, Breite 85 cm (ohne Senn (aufsteckb).","geschnitzt, bemalt."
-190791,LM-1695,Wagen und Schlitten,Kinderschlitten,"Mit rotem Samtpolster. 1790 - 1800. 58,5 x 37 x 33 cm. ",1790 - 1800  ,,,,"Höhe 58.5 cm, Breite 37 cm, Tiefe 33 cm.",
-190828,LM-2047.1-2,Wagen und Schlitten,Schlitten,"Wurstschlitten 'Dudelsackbläser' aus Ermatingen. 1700 - 1800. 187 x 237 x 100 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 187 cm, Länge 237 cm, Breite 100 cm.","geschnitzt, bemalt."
-191050,LM-2811,Wagen und Schlitten,Schlittenkasten,"Polsterung aus beigefarbenem Filztuch. Innwendig mit schwarzem Leder. 1750 - 1800. 77 x 224 x 78 cm. bemalt, versilbert. ",1750 - 1800  ,,,,"Höhe 77 cm, Länge 224 cm, Breite 78 cm.","bemalt, versilbert."
-191052,LM-2812,Wagen und Schlitten,Schlittenkasten,"In Form eines Löwen. 1700 - 1800. 83 x 198 x 59 cm. Holz, bemalt, geschnitzt. ",1700 - 1800  ,,,,"Höhe 83 cm, Länge 198 cm, Breite 59 cm.","Holz, bemalt, geschnitzt."
-191092,LM-2885,Wagen und Schlitten,Fahrrad,"Hohes Vorderrad. Schweres Gestell, gerade Lenkstange, Räder mit Eisen beschlagen. 1800 - 1850. ",1800 - 1850  ,,,,,
-191118,LM-3120.a,Wagen und Schlitten,Schlittenkasten,"Grün bemalt, mit geschnitzten Girlanden verziert. 1800 - 1810. 96 x 170 x 61 cm. Holz, geschnitzt, bemalt. ",1800 - 1810  ,,,,"Höhe 96 cm, Länge 170 cm, Breite 61 cm.","Holz, geschnitzt, bemalt."
-191121,LM-3120.b,Wagen und Schlitten,Schlittenkasten,"Grün bemalt, mit geschnitzten Girlanden und Figuren verziert. 97 x 202 x 58 cm. Holz, geschnitzt, bemalt. ", ,,,,"Höhe 97 cm, Länge 202 cm, Breite 58 cm.","Holz, geschnitzt, bemalt."
-8419,LM-3790.1-31,Wagen und Schlitten,Kutschenteile und Zubehör,"Gotthardpostwagen, Typus Coupé Berline No 880. Inhalt: Postwesen. Um 1850. Herkunft: St. Gotthard. 325 x 485 x 200 cm. 1930000 g (Wagen). Holz, bemalt. Eisen, geschmiedet. Leder. Fenster: Glas. 
+Jahresbericht SLM 1895, S. 47. - Kdm TG 2, 1955, S. 219, Abb. 207, S. 221, Nr. 3. - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 290, Nr. 3.3.17, S. 284, Abb. - Klosteransicht: Kdm TG 2, 1955, S. 75, Abb. 66.- Zur Legende der hl. Idda von Toggenburg: HBLS 4, S. 330. - W. AB HOLENSTEIN, Schweizer Heiligen Legende, Olten 1939, S. 68. - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 129-213. ",1800,Anonym. ,  ,"Kloster Fischingen (TG), Kloster. Ida von Toggenburg, hl. ","Hï¿½he 104 cm, Lï¿½nge 235 cm, Breite 82 cm.","Stirnbrett: Kupfer, ï¿½l."
+190735,LM-1269,Wagen und Schlitten,Schlittenkasten,zweiteiliger Schlittenkasten in Figur eines Ochsen. 1690 - 1700. 96 x 160 x 66 cm. ,1690 - 1700  ,,,,"Hï¿½he 96 cm, Lï¿½nge 160 cm, Breite 66 cm.",
+190772,LM-1656.a,Wagen und Schlitten,Schlitten,"Auf beiden Lï¿½ngsseiten je eine Reiterfigur. Bugbekrï¿½nung: Sennenfigur. 1700 - 1800. 185 x 225 x 85 cm (ohne Senn (aufsteckb). geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 185 cm, Lï¿½nge 225 cm, Breite 85 cm (ohne Senn (aufsteckb).","geschnitzt, bemalt."
+190791,LM-1695,Wagen und Schlitten,Kinderschlitten,"Mit rotem Samtpolster. 1790 - 1800. 58,5 x 37 x 33 cm. ",1790 - 1800  ,,,,"Hï¿½he 58.5 cm, Breite 37 cm, Tiefe 33 cm.",
+190828,LM-2047.1-2,Wagen und Schlitten,Schlitten,"Wurstschlitten 'Dudelsackblï¿½ser' aus Ermatingen. 1700 - 1800. 187 x 237 x 100 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 187 cm, Lï¿½nge 237 cm, Breite 100 cm.","geschnitzt, bemalt."
+191050,LM-2811,Wagen und Schlitten,Schlittenkasten,"Polsterung aus beigefarbenem Filztuch. Innwendig mit schwarzem Leder. 1750 - 1800. 77 x 224 x 78 cm. bemalt, versilbert. ",1750 - 1800  ,,,,"Hï¿½he 77 cm, Lï¿½nge 224 cm, Breite 78 cm.","bemalt, versilbert."
+191052,LM-2812,Wagen und Schlitten,Schlittenkasten,"In Form eines Lï¿½wen. 1700 - 1800. 83 x 198 x 59 cm. Holz, bemalt, geschnitzt. ",1700 - 1800  ,,,,"Hï¿½he 83 cm, Lï¿½nge 198 cm, Breite 59 cm.","Holz, bemalt, geschnitzt."
+191092,LM-2885,Wagen und Schlitten,Fahrrad,"Hohes Vorderrad. Schweres Gestell, gerade Lenkstange, Rï¿½der mit Eisen beschlagen. 1800 - 1850. ",1800 - 1850  ,,,,,
+191118,LM-3120.a,Wagen und Schlitten,Schlittenkasten,"Grï¿½n bemalt, mit geschnitzten Girlanden verziert. 1800 - 1810. 96 x 170 x 61 cm. Holz, geschnitzt, bemalt. ",1800 - 1810  ,,,,"Hï¿½he 96 cm, Lï¿½nge 170 cm, Breite 61 cm.","Holz, geschnitzt, bemalt."
+191121,LM-3120.b,Wagen und Schlitten,Schlittenkasten,"Grï¿½n bemalt, mit geschnitzten Girlanden und Figuren verziert. 97 x 202 x 58 cm. Holz, geschnitzt, bemalt. ", ,,,,"Hï¿½he 97 cm, Lï¿½nge 202 cm, Breite 58 cm.","Holz, geschnitzt, bemalt."
+8419,LM-3790.1-31,Wagen und Schlitten,Kutschenteile und Zubehï¿½r,"Gotthardpostwagen, Typus Coupï¿½ Berline No 880. Inhalt: Postwesen. Um 1850. Herkunft: St. Gotthard. 325 x 485 x 200 cm. 1930000 g (Wagen). Holz, bemalt. Eisen, geschmiedet. Leder. Fenster: Glas. 
 
 Literatur:
-Andres Furger, Der Gotthard-Postwagen (= Bildband 1), Zürich 1990. ",1850,,  ,Postwesen. ,"Wagen: Höhe 325 cm, Länge 485 cm, Breite 200 cm, Gewicht 1930000 g.","Holz, bemalt. Eisen, geschmiedet. Leder. Fenster: Glas."
-191262,LM-4784,Wagen und Schlitten,Schlittenkasten,"Wurstschlitten mit Sitz in Form eines Hundes, mit gepolstertem Sitz. 1700 - 1800. 52 x 126 x 27 cm. ",1700 - 1800  ,,,,"Höhe 52 cm, Länge 126 cm, Breite 27 cm.",
-195788,LM-4817,Wagen und Schlitten,Kinderfahrrad,Zweirädriges Knabenfahrrad. Ledersattel. 1700 - 1800. Holz. ,1700 - 1800  ,,,,,Holz.
-191352,LM-5231.1-2,Wagen und Schlitten,Herrenschlitten,"Schlittenkasten in Form eines Löwen. 1700 - 1800. 146 x 267 x 101,5 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 146 cm, Länge 267 cm, Breite 101.5 cm.","geschnitzt, bemalt."
-191365,LM-5494,Wagen und Schlitten,Schlitten,"Mit floralen Motiven. 1750 - 1800. Herkunft: Graubünden. 140 x 240 x 70 cm. Holz, bemalt. ",1750 - 1800  ,,  ,,"Höhe 140 cm, Länge 240 cm, Breite 70 cm.","Holz, bemalt."
+Andres Furger, Der Gotthard-Postwagen (= Bildband 1), Zï¿½rich 1990. ",1850,,  ,Postwesen. ,"Wagen: Hï¿½he 325 cm, Lï¿½nge 485 cm, Breite 200 cm, Gewicht 1930000 g.","Holz, bemalt. Eisen, geschmiedet. Leder. Fenster: Glas."
+191262,LM-4784,Wagen und Schlitten,Schlittenkasten,"Wurstschlitten mit Sitz in Form eines Hundes, mit gepolstertem Sitz. 1700 - 1800. 52 x 126 x 27 cm. ",1700 - 1800  ,,,,"Hï¿½he 52 cm, Lï¿½nge 126 cm, Breite 27 cm.",
+195788,LM-4817,Wagen und Schlitten,Kinderfahrrad,Zweirï¿½driges Knabenfahrrad. Ledersattel. 1700 - 1800. Holz. ,1700 - 1800  ,,,,,Holz.
+191352,LM-5231.1-2,Wagen und Schlitten,Herrenschlitten,"Schlittenkasten in Form eines Lï¿½wen. 1700 - 1800. 146 x 267 x 101,5 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 146 cm, Lï¿½nge 267 cm, Breite 101.5 cm.","geschnitzt, bemalt."
+191365,LM-5494,Wagen und Schlitten,Schlitten,"Mit floralen Motiven. 1750 - 1800. Herkunft: Graubï¿½nden. 140 x 240 x 70 cm. Holz, bemalt. ",1750 - 1800  ,,  ,,"Hï¿½he 140 cm, Lï¿½nge 240 cm, Breite 70 cm.","Holz, bemalt."
 191370,LM-5707.1-3,Wagen und Schlitten,Herrenschlitten,"Mit Inschriften haltendem Putto, Monogramm H.M., Sitz bunt gemustert. Keine Datumsangabe. bemalt. ", ,,,,,bemalt.
-191545,LM-6703,Wagen und Schlitten,Kinderschlitten,"Mit Engeln, Blumen und Himmel mit Sternen bemalt. 1700 - 1800. 87,5 x 93 x 27 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Höhe 87.5 cm, Breite 93 cm, Tiefe 27 cm.","geschnitzt, bemalt."
-191553,LM-6825,Wagen und Schlitten,Kinderschlitten,"Mit tiefem Kerbschnitt verziert. Vertiefte Buchstaben DBC und Brandstempel. Keine Datumsangabe. 15,5 x 46,5 x 23,5 cm. Holz. ", ,,,,"Höhe 15.5 cm, Länge 46.5 cm, Breite 23.5 cm.",Holz.
-8418,LM-6876,Wagen und Schlitten,Kutsche,"Federgestell; gedeckter Kasten mit seitl. halbhohen Türen, sogenannter 'Char de Coté'. 1800 - 1810. ",1800 - 1810  ,,,,,
-191643,LM-8245,Wagen und Schlitten,Hochrad,"Sogenanntes 'Velociped'. Datiert 1875. 151 cm. Ø 129,5 cm. Stahl. ",1875,,,,"Höhe 151 cm, Durchmesser 129.5 cm.",Stahl.
-191647,LM-8379,Wagen und Schlitten,Fahrrad,"Knabenvelo mit Ledersitz. Räder in der Höhe verstellbar. 1800 - 1900. 55 x 128 cm. Holz, bemalt. ",1800 - 1900  ,,,,"Höhe 55 cm, Breite 128 cm.","Holz, bemalt."
-191836,LM-10441,Wagen und Schlitten,Fahrrad,"Mit Zugbremse, Sitz aus Eisen. Herstellung: Bühler Velos. Datiert 1870. 127 x 178 cm. Holz. ",1870,Bühler Velos. ,,,"Höhe 127 cm, Breite 178 cm.",Holz.
-191845,LM-10655.1-5,Wagen und Schlitten,Schlittenkasten,Einsitziger Figurenschlitten 'Damenschuh'. Blau und rot bemalt. 1700 - 1800. 147 x 245 x 100 cm. bemalt. ,1700 - 1800  ,,,,"Höhe 147 cm, Länge 245 cm, Breite 100 cm.",bemalt.
-191907,LM-11328,Wagen und Schlitten,Fahrrad,"Mit Zugbremse, Sitz aus Leder. Datiert 1841. 137 cm. Holz. ",1841,,,,Höhe 137 cm.,Holz.
-192059,LM-13889,Wagen und Schlitten,Schlittenkasten,"Einen liegenden Hirsch darstellend, Kopf mit Geweih. 1750 - 1800. 104 x 178 x 65 x 50 cm. Holz, bemalt, vergoldet. ",1750 - 1800  ,,,,"Höhe 104 cm, Länge 178 cm, Breite 65 cm, Tiefe 50 cm.","Holz, bemalt, vergoldet."
-8420,LM-15307,Wagen und Schlitten,Postkutsche,Sogenannter 'Char de Coté'. Vierrädriger Wagen mit Leitergestell und Eisenfedern. Inhalt: Postwesen. 1850 - 1900. Herkunft: Neuenburg (Kanton). ,1850 - 1900  ,,  ,Postwesen. ,,
-192322,LM-18209,Wagen und Schlitten,Schlitten,"Schlittekasten, geschnitzt und bemalt, teilweise vergoldet. 1700 - 1800. 101 x 198 x 54 cm. Holz, vergoldet, bemalt. ",1700 - 1800,,,,"Höhe 101 cm, Länge 198 cm, Breite 54 cm.","Holz, vergoldet, bemalt."
-192325,LM-18214,Wagen und Schlitten,Schlitten,"Auf Kufen montierter Löwe. Tierleib hohl, oben mit aufklappbarem Deckel. 1700 - 1800. 108 x 210 x 98 cm. Holz, geschnitzt, bemalt. ",1700 - 1800,,,,"Höhe 108 cm, Länge 210 cm, Breite 98 cm.","Holz, geschnitzt, bemalt."
-98739,LM-19818.1-5,Wagen und Schlitten,Schlitten,"Figurenschlitten 'Triton', 1- und 2spännig, Delphin mit offenem Rachen. Herstellung: Bildhauer Hans Wilhelm Tüfel (?1695), Sursee. Um 1680. Herkunft: Suter, Zofingen; Familie Pfyffer von Altishofen, Altishofen. 194 x 280 x 100 cm. Holz (Trägermaterial), geschnitzt. 
+191545,LM-6703,Wagen und Schlitten,Kinderschlitten,"Mit Engeln, Blumen und Himmel mit Sternen bemalt. 1700 - 1800. 87,5 x 93 x 27 cm. geschnitzt, bemalt. ",1700 - 1800  ,,,,"Hï¿½he 87.5 cm, Breite 93 cm, Tiefe 27 cm.","geschnitzt, bemalt."
+191553,LM-6825,Wagen und Schlitten,Kinderschlitten,"Mit tiefem Kerbschnitt verziert. Vertiefte Buchstaben DBC und Brandstempel. Keine Datumsangabe. 15,5 x 46,5 x 23,5 cm. Holz. ", ,,,,"Hï¿½he 15.5 cm, Lï¿½nge 46.5 cm, Breite 23.5 cm.",Holz.
+8418,LM-6876,Wagen und Schlitten,Kutsche,"Federgestell; gedeckter Kasten mit seitl. halbhohen Tï¿½ren, sogenannter 'Char de Cotï¿½'. 1800 - 1810. ",1800 - 1810  ,,,,,
+191643,LM-8245,Wagen und Schlitten,Hochrad,"Sogenanntes 'Velociped'. Datiert 1875. 151 cm. ï¿½ 129,5 cm. Stahl. ",1875,,,,"Hï¿½he 151 cm, Durchmesser 129.5 cm.",Stahl.
+191647,LM-8379,Wagen und Schlitten,Fahrrad,"Knabenvelo mit Ledersitz. Rï¿½der in der Hï¿½he verstellbar. 1800 - 1900. 55 x 128 cm. Holz, bemalt. ",1800 - 1900  ,,,,"Hï¿½he 55 cm, Breite 128 cm.","Holz, bemalt."
+191836,LM-10441,Wagen und Schlitten,Fahrrad,"Mit Zugbremse, Sitz aus Eisen. Herstellung: Bï¿½hler Velos. Datiert 1870. 127 x 178 cm. Holz. ",1870,Bï¿½hler Velos. ,,,"Hï¿½he 127 cm, Breite 178 cm.",Holz.
+191845,LM-10655.1-5,Wagen und Schlitten,Schlittenkasten,Einsitziger Figurenschlitten 'Damenschuh'. Blau und rot bemalt. 1700 - 1800. 147 x 245 x 100 cm. bemalt. ,1700 - 1800  ,,,,"Hï¿½he 147 cm, Lï¿½nge 245 cm, Breite 100 cm.",bemalt.
+191907,LM-11328,Wagen und Schlitten,Fahrrad,"Mit Zugbremse, Sitz aus Leder. Datiert 1841. 137 cm. Holz. ",1841,,,,Hï¿½he 137 cm.,Holz.
+192059,LM-13889,Wagen und Schlitten,Schlittenkasten,"Einen liegenden Hirsch darstellend, Kopf mit Geweih. 1750 - 1800. 104 x 178 x 65 x 50 cm. Holz, bemalt, vergoldet. ",1750 - 1800  ,,,,"Hï¿½he 104 cm, Lï¿½nge 178 cm, Breite 65 cm, Tiefe 50 cm.","Holz, bemalt, vergoldet."
+8420,LM-15307,Wagen und Schlitten,Postkutsche,Sogenannter 'Char de Cotï¿½'. Vierrï¿½driger Wagen mit Leitergestell und Eisenfedern. Inhalt: Postwesen. 1850 - 1900. Herkunft: Neuenburg (Kanton). ,1850 - 1900  ,,  ,Postwesen. ,,
+192322,LM-18209,Wagen und Schlitten,Schlitten,"Schlittekasten, geschnitzt und bemalt, teilweise vergoldet. 1700 - 1800. 101 x 198 x 54 cm. Holz, vergoldet, bemalt. ",1700 - 1800,,,,"Hï¿½he 101 cm, Lï¿½nge 198 cm, Breite 54 cm.","Holz, vergoldet, bemalt."
+192325,LM-18214,Wagen und Schlitten,Schlitten,"Auf Kufen montierter Lï¿½we. Tierleib hohl, oben mit aufklappbarem Deckel. 1700 - 1800. 108 x 210 x 98 cm. Holz, geschnitzt, bemalt. ",1700 - 1800,,,,"Hï¿½he 108 cm, Lï¿½nge 210 cm, Breite 98 cm.","Holz, geschnitzt, bemalt."
+98739,LM-19818.1-5,Wagen und Schlitten,Schlitten,"Figurenschlitten 'Triton', 1- und 2spï¿½nnig, Delphin mit offenem Rachen. Herstellung: Bildhauer Hans Wilhelm Tï¿½fel (?1695), Sursee. Um 1680. Herkunft: Suter, Zofingen; Familie Pfyffer von Altishofen, Altishofen. 194 x 280 x 100 cm. Holz (Trï¿½germaterial), geschnitzt. 
 
 Literatur:
-Andres Furger, Herrschaftliches Vergnügen, in: Schweizerisches Landesmuseum Zürich & Prangins (= Museen der Schweiz), Zürich/Genf 1998, S. 74f. ",1680,"Bildhauer Hans Wilhelm Tüfel (?1695), Sursee. ",Besitzer    (Objekt),,"Höhe 194 cm, Länge 280 cm, Breite 100 cm.","Holz (Trägermaterial), geschnitzt."
-192391,LM-19819,Wagen und Schlitten,Schlittenkasten,"in Form eines gelben Leoparden mit schwarzen Flecken. 1700 - 1725. 86 x 190 x 62 cm. geschnitzt, bemalt. ",1700 - 1725  ,,,,"Höhe 86 cm, Länge 190 cm, Breite 62 cm.","geschnitzt, bemalt."
-192565,LM-23358,Wagen und Schlitten,Schlitten,"Auf der Sitzfläche festgeschmiedetes Messingschild mit Gravur: 'S.E.H.1839'. Datiert 1839. 25 x 54 x 33,3 cm. Nussbaumholz. ",1839,,,,"Höhe 25 cm, Länge 54 cm, Breite 33.3 cm.",Nussbaumholz.
-300806,LM-23568,Wagen und Schlitten,Beobachtungsturm,"Sogen. 'Magirus-Leiter' für Positionsartilerie, teleskopierbar. Inhalt: Artillerie. Herstellung: Ulm. 1890 - 1900. Herkunft: Eidg. Zeughaus, Rapperswil. 275 x 561 x 191 cm (H. in Ruhelage). Holz. Eisen, gewalzt, geschmiedet. Eisenguss. Eisenblech. 
+Andres Furger, Herrschaftliches Vergnï¿½gen, in: Schweizerisches Landesmuseum Zï¿½rich & Prangins (= Museen der Schweiz), Zï¿½rich/Genf 1998, S. 74f. ",1680,"Bildhauer Hans Wilhelm Tï¿½fel (?1695), Sursee. ",Besitzer    (Objekt),,"Hï¿½he 194 cm, Lï¿½nge 280 cm, Breite 100 cm.","Holz (Trï¿½germaterial), geschnitzt."
+192391,LM-19819,Wagen und Schlitten,Schlittenkasten,"in Form eines gelben Leoparden mit schwarzen Flecken. 1700 - 1725. 86 x 190 x 62 cm. geschnitzt, bemalt. ",1700 - 1725  ,,,,"Hï¿½he 86 cm, Lï¿½nge 190 cm, Breite 62 cm.","geschnitzt, bemalt."
+192565,LM-23358,Wagen und Schlitten,Schlitten,"Auf der Sitzflï¿½che festgeschmiedetes Messingschild mit Gravur: 'S.E.H.1839'. Datiert 1839. 25 x 54 x 33,3 cm. Nussbaumholz. ",1839,,,,"Hï¿½he 25 cm, Lï¿½nge 54 cm, Breite 33.3 cm.",Nussbaumholz.
+300806,LM-23568,Wagen und Schlitten,Beobachtungsturm,"Sogen. 'Magirus-Leiter' fï¿½r Positionsartilerie, teleskopierbar. Inhalt: Artillerie. Herstellung: Ulm. 1890 - 1900. Herkunft: Eidg. Zeughaus, Rapperswil. 275 x 561 x 191 cm (H. in Ruhelage). Holz. Eisen, gewalzt, geschmiedet. Eisenguss. Eisenblech. 
 
 Literatur:
-- EMD [Hrsg.]: Illustriertes Handbuch mit Daten über Fuhrwerke, Geschütze, Maschinen und Geräte, Bern: EMD, 1896 (gebundenes Ex. Der Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial), Tafel 58, 'Beobachtungsturm. Positionsartillerie - Tour d'observation. Artillerie de position' (in Transportstellung)/59 (aufgestellt, ausgefahren und bemannt).
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 357. ",1890 - 1900  ,Ulm. ,  ,Artillerie. ,"Höhe 275 cm, Länge 561 cm, Breite 191 cm (H. in Ruhelage).
+- EMD [Hrsg.]: Illustriertes Handbuch mit Daten ï¿½ber Fuhrwerke, Geschï¿½tze, Maschinen und Gerï¿½te, Bern: EMD, 1896 (gebundenes Ex. Der Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial), Tafel 58, 'Beobachtungsturm. Positionsartillerie - Tour d'observation. Artillerie de position' (in Transportstellung)/59 (aufgestellt, ausgefahren und bemannt).
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 357. ",1890 - 1900  ,Ulm. ,  ,Artillerie. ,"Hï¿½he 275 cm, Lï¿½nge 561 cm, Breite 191 cm (H. in Ruhelage).
 Rad: Durchmesser 142 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenguss. Eisenblech. "
-381544,LM-23574.1-3,Wagen und Schlitten,Stabsfourgon geschlossen,"Stabsfourgon, Eidg. Ord. 1878, geschlossen, 4-rädrig, Bocksitz mit Vordach. Herstellung:  (Fahrzeug, Eidgenössische / Konstruktions-Werkstätte / Thun / No 16593 1925). Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 235 x 360 x 176 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+381544,LM-23574.1-3,Wagen und Schlitten,Stabsfourgon geschlossen,"Stabsfourgon, Eidg. Ord. 1878, geschlossen, 4-rï¿½drig, Bocksitz mit Vordach. Herstellung:  (Fahrzeug, Eidgenï¿½ssische / Konstruktions-Werkstï¿½tte / Thun / No 16593 1925). Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 235 x 360 x 176 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 103, 'Stabsfourgon 1878/99, K+W 204' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- EMD [Hrsg.]: Fuhrwerke der Schweizerischen Infanterie und Kavallerie - Offizielle Ausgabe / Voitures de l'Infanterie et de la Cavalerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 1 'Stabsfourgon. Ordonanz 1878 - Fourgon d'état-major. Ordonnance de 1878'.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 103, 'Stabsfourgon 1878/99, K+W 204' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- EMD [Hrsg.]: Fuhrwerke der Schweizerischen Infanterie und Kavallerie - Offizielle Ausgabe / Voitures de l'Infanterie et de la Cavalerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 1 'Stabsfourgon. Ordonanz 1878 - Fourgon d'ï¿½tat-major. Ordonnance de 1878'.
 - Hildebrand, Carl: Gefiederte Kuriere - Der Brieftaubendienst der Schweizer Armee 1917-1994, Wabern: Carl Hildebrand, 2001, Abb. S. 227/288 (Stabsfourgon umgebaut zum Brieftaubenwagen).
-. ",1925," (Fahrzeug, Eidgenössische / Konstruktions-Werkstätte / Thun / No 16593 1925). ",  ,,"Höhe 235 cm, Länge 360 cm, Breite 176 cm.
-Deichsel: Länge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-300837,LM-23576,Wagen und Schlitten,Fahrküche (Pferdezug),"2-rädrig, Eidg. Ord. 1880, mit 2 Kochkesseln, eisernen Speichenrädern, Zubehör. Inhalt: Sanität. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1883. Herkunft: Eidg. Zeughaus, Rapperswil. 134 x 404 x 194 cm (mit Gabel (Landen)). Holz. Eisen, geschmiedet, gewalzt. Eisenblech. Gusseisen. 
+. ",1925," (Fahrzeug, Eidgenï¿½ssische / Konstruktions-Werkstï¿½tte / Thun / No 16593 1925). ",  ,,"Hï¿½he 235 cm, Lï¿½nge 360 cm, Breite 176 cm.
+Deichsel: Lï¿½nge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+300837,LM-23576,Wagen und Schlitten,Fahrkï¿½che (Pferdezug),"2-rï¿½drig, Eidg. Ord. 1880, mit 2 Kochkesseln, eisernen Speichenrï¿½dern, Zubehï¿½r. Inhalt: Sanitï¿½t. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1883. Herkunft: Eidg. Zeughaus, Rapperswil. 134 x 404 x 194 cm (mit Gabel (Landen)). Holz. Eisen, geschmiedet, gewalzt. Eisenblech. Gusseisen. 
 
 Literatur:
-- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Pièces, Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafel 31 'Fahrküche. Ordonnanz 1880 - Cusine roulant. Ordonnance 1880.
-- Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 78/79 (mit Ausrüstungsetat).
+- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafel 31 'Fahrkï¿½che. Ordonnanz 1880 - Cusine roulant. Ordonnance 1880.
+- Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 78/79 (mit Ausrï¿½stungsetat).
 - Hochstrasser, Markus: Nostalgisches Solothurn, Chapelle sur Moudon: Ketty & Alexandre, 1998, Abb. 18.
-. ",1883,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Sanität. ,"Höhe 134 cm, Länge 404 cm, Breite 194 cm (mit Gabel (Landen)).
+. ",1883,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Sanitï¿½t. ,"Hï¿½he 134 cm, Lï¿½nge 404 cm, Breite 194 cm (mit Gabel (Landen)).
 Rad: Durchmesser 134 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech. Gusseisen."
 381546,LM-23577.1-3,Wagen und Schlitten,Feldschmiede,"Eidg. Ord. 1843, 2-teilig, aus Protze und Schmiedewagen mit Spitzblasbalg. Inhalt: Artillerie. Herstellung: Worb. Datiert nach Inschrift 1847. Herkunft: Eidg. Zeughaus, Rapperswil. 201 x 446 x 174 cm. Holz. Eisen, geschmiedet. Eisenblech. Leder. 
 
 Literatur:
-- EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 23, 'Batterie-Feldschmiede. Ordonnanz 1843. Feldartillerie - Forge de campagne de Batterie. Ordonnance de 1843. Artillerie de campagne'.
+- EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 23, 'Batterie-Feldschmiede. Ordonnanz 1843. Feldartillerie - Forge de campagne de Batterie. Ordonnance de 1843. Artillerie de campagne'.
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, S. 42 unten.
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 330/331. ",1847,Worb. ,  ,Artillerie. ,"Fahrzeug: Höhe 201 cm, Länge 446 cm, Breite 174 cm.
-Vorderteil: Höhe 174 cm, Länge 164 cm, Breite 174 cm.
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 330/331. ",1847,Worb. ,  ,Artillerie. ,"Fahrzeug: Hï¿½he 201 cm, Lï¿½nge 446 cm, Breite 174 cm.
+Vorderteil: Hï¿½he 174 cm, Lï¿½nge 164 cm, Breite 174 cm.
 Rad: Durchmesser 143 cm (vorne).
-Hinterteil: Höhe 201 cm, Länge 329 cm, Breite 174 cm.
+Hinterteil: Hï¿½he 201 cm, Lï¿½nge 329 cm, Breite 174 cm.
 Rad: Durchmesser 143 cm (hinten).
-Deichsel: Länge 323 cm.","Holz. Eisen, geschmiedet. Eisenblech. Leder."
+Deichsel: Lï¿½nge 323 cm.","Holz. Eisen, geschmiedet. Eisenblech. Leder."
 381547,LM-23578.1-3,Wagen und Schlitten,Park-Feldschmiede,"Parkfeldschmiede, Eidg. Ord. 1871, aus Protze und Schmiedwagen bestehend. Inhalt: Artillerie. 1871. Herkunft: Eidg. Zeughaus, Rapperswil. 175 x 450 x 173 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 19 (überstempelt 27), 'Park-Feldschmiede. Modell 1871. Feld-Artillerie - Forge de campagne du parc. Modèle de 1871. Artillerie de campagne'.
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, S. 173, Abb. 335. ",1871,,  ,Artillerie. ,"Fahrzeug: Höhe 175 cm, Länge 450 cm, Breite 173 cm.
-Vorderteil: Höhe 161 cm, Länge 160 cm, Breite 173 cm.
+- EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 19 (ï¿½berstempelt 27), 'Park-Feldschmiede. Modell 1871. Feld-Artillerie - Forge de campagne du parc. Modï¿½le de 1871. Artillerie de campagne'.
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, S. 173, Abb. 335. ",1871,,  ,Artillerie. ,"Fahrzeug: Hï¿½he 175 cm, Lï¿½nge 450 cm, Breite 173 cm.
+Vorderteil: Hï¿½he 161 cm, Lï¿½nge 160 cm, Breite 173 cm.
 Rad: Durchmesser 143 cm (vorne).
-Hinterteil: Höhe 175 cm, Länge 332 cm, Breite 173 cm.
+Hinterteil: Hï¿½he 175 cm, Lï¿½nge 332 cm, Breite 173 cm.
 Rad: Durchmesser 143 cm (hinten).
-Deichsel: Länge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+Deichsel: Lï¿½nge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
 381548,LM-23579.1-3,Wagen und Schlitten,Park-Feldschmiede,"Eidg. Ord. 1882,  aus Protze und Schmiedwagen bestehend, mit eiserner Luftpumpe. Inhalt: Artillerie. 1882. Herkunft: Eidg. Zeughaus, Rapperswil. 196 x 449 x 174 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 28, 'Parkfeldschmiede. Ordonnanz 1882. Feldartillerie - Forge de campagne du parc. Ordonnance de 1882. Artillerie de campagne'.
-- [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, S. 173, Abb. 335. ",1882,,  ,Artillerie. ,"Fahrzeug: Höhe 196 cm, Länge 449 cm, Breite 174 cm.
-Vorderteil: Höhe 160 cm, Länge 162 cm, Breite 174 cm.
+- EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 28, 'Parkfeldschmiede. Ordonnanz 1882. Feldartillerie - Forge de campagne du parc. Ordonnance de 1882. Artillerie de campagne'.
+- [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, S. 173, Abb. 335. ",1882,,  ,Artillerie. ,"Fahrzeug: Hï¿½he 196 cm, Lï¿½nge 449 cm, Breite 174 cm.
+Vorderteil: Hï¿½he 160 cm, Lï¿½nge 162 cm, Breite 174 cm.
 Rad: Durchmesser 143 cm (vorn).
-Hinterteil: Höhe 196 cm, Länge 330 cm, Breite 174 cm.
+Hinterteil: Hï¿½he 196 cm, Lï¿½nge 330 cm, Breite 174 cm.
 Rad: Durchmesser 143 cm.
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-300866,LM-23580,Wagen und Schlitten,Feldschmiede,"Feldschmiede,  Ord. 1843, 4-rädrig, 1-teilig, mit Spitzblasbalg und 'Schiff'. Inhalt: Artillerie. Herstellung: Luzern. 1843. Herkunft: Eidg. Zeughaus, Rapperswil. 195 x 416 x 161 cm. Holz. Eisen, geschmiedet. Eisenblech. Leder. ",1843,Luzern. ,  ,Artillerie. ,"Höhe 195 cm, Länge 416 cm, Breite 161 cm.
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+300866,LM-23580,Wagen und Schlitten,Feldschmiede,"Feldschmiede,  Ord. 1843, 4-rï¿½drig, 1-teilig, mit Spitzblasbalg und 'Schiff'. Inhalt: Artillerie. Herstellung: Luzern. 1843. Herkunft: Eidg. Zeughaus, Rapperswil. 195 x 416 x 161 cm. Holz. Eisen, geschmiedet. Eisenblech. Leder. ",1843,Luzern. ,  ,Artillerie. ,"Hï¿½he 195 cm, Lï¿½nge 416 cm, Breite 161 cm.
 Rad: Durchmesser 85 cm (vorne).
 Rad: Durchmesser 148 cm (hinten).","Holz. Eisen, geschmiedet. Eisenblech. Leder."
-375580,LM-23581.1-3,Wagen und Schlitten,Rüstwagen,"Eidg. Ord. 1843, 2-teilig, aus Protze und Ausrüstungswagen mit 5 Kisten. Inhalt: Artillerie. Eidg. Ord. 1843. Herkunft: Eidg. Zeughaus, Rapperswil. 141 x 438 x 177 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+375580,LM-23581.1-3,Wagen und Schlitten,Rï¿½stwagen,"Eidg. Ord. 1843, 2-teilig, aus Protze und Ausrï¿½stungswagen mit 5 Kisten. Inhalt: Artillerie. Eidg. Ord. 1843. Herkunft: Eidg. Zeughaus, Rapperswil. 141 x 438 x 177 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
 Literatur:
-EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 10 (überstempelt 21), 'Batterie-Rüstwagen. Ordonnanz 1843/69/74. Feld-Artillerie - Chariot de batterie. Ordonnance de 1843/69/74. Artillerie de campagne'. ",1843,,  ,Artillerie. ,"Fahrzeug: Höhe 141 cm, Länge 438 cm, Breite 177 cm.
-Vorderteil: Höhe 141 cm, Länge 167 cm, Breite 177 cm.
+EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 10 (ï¿½berstempelt 21), 'Batterie-Rï¿½stwagen. Ordonnanz 1843/69/74. Feld-Artillerie - Chariot de batterie. Ordonnance de 1843/69/74. Artillerie de campagne'. ",1843,,  ,Artillerie. ,"Fahrzeug: Hï¿½he 141 cm, Lï¿½nge 438 cm, Breite 177 cm.
+Vorderteil: Hï¿½he 141 cm, Lï¿½nge 167 cm, Breite 177 cm.
 Rad: Durchmesser 143 cm (vorne).
-Hinterteil: Höhe 140 cm, Länge 324 cm, Breite 176 cm.
+Hinterteil: Hï¿½he 140 cm, Lï¿½nge 324 cm, Breite 176 cm.
 Rad: Durchmesser 143 cm (hinten).
-Deichsel: Länge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+Deichsel: Lï¿½nge 323 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
 381549,LM-23582.1-3,Wagen und Schlitten,Feldschmiede,"Eidg. Ord. 1843, 2-teilig, aus Protze und Schmiedewagen mit Spitzblasbalg. Inhalt: Artillerie. Herstellung: Bern. 1843. Herkunft: Eidg. Zeughaus, Rapperswil. 186 x 421 x 176 cm. Holz. Eisen, geschmiedet. Eisenblech. Leder. 
 
 Literatur:
-- EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 23, 'Batterie-Feldschmiede. Ordonnanz 1843. Feldartillerie - Forge de campagne de Batterie. Ordonnance de 1843. Artillerie de campagne'.
+- EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 23, 'Batterie-Feldschmiede. Ordonnanz 1843. Feldartillerie - Forge de campagne de Batterie. Ordonnance de 1843. Artillerie de campagne'.
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, S. 42 unten.
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 330/331. ",1843,Bern. ,  ,Artillerie. ,"Fahrzeug: Höhe 186 cm, Länge 421 cm, Breite 176 cm.
-Vorderteil: Höhe 162 cm, Länge 163 cm, Breite 176 cm.
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 330/331. ",1843,Bern. ,  ,Artillerie. ,"Fahrzeug: Hï¿½he 186 cm, Lï¿½nge 421 cm, Breite 176 cm.
+Vorderteil: Hï¿½he 162 cm, Lï¿½nge 163 cm, Breite 176 cm.
 Rad: Durchmesser 143 cm (vorne).
-Hinterteil: Höhe 186 cm, Länge 311 cm, Breite 176 cm.
+Hinterteil: Hï¿½he 186 cm, Lï¿½nge 311 cm, Breite 176 cm.
 Rad: Durchmesser 144 cm (hinten).
-Länge 322 cm.","Holz. Eisen, geschmiedet. Eisenblech. Leder."
-381550,LM-23583.1-3,Wagen und Schlitten,Rüstwagen,"2-teilig, aus Protze und Ausrüstungswagen mit 4 Ausrüstungskisten. Inhalt: Artillerie. Eidg. Ord. 1871. Herkunft: Eidg. Zeughaus, Rapperswil. 163 x 426 x 175 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+Lï¿½nge 322 cm.","Holz. Eisen, geschmiedet. Eisenblech. Leder."
+381550,LM-23583.1-3,Wagen und Schlitten,Rï¿½stwagen,"2-teilig, aus Protze und Ausrï¿½stungswagen mit 4 Ausrï¿½stungskisten. Inhalt: Artillerie. Eidg. Ord. 1871. Herkunft: Eidg. Zeughaus, Rapperswil. 163 x 426 x 175 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-EMD [Hrsg.]: Geschütze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Pièces, Voitures et Matériel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 11 (überstempelt 22), 'Batterie-Rüstwagen. Modell 1871. Feld-Artillerie - Chariot de batterie. Modèle de 1871. Artillerie de campagne'. ",1871,,  ,Artillerie. ,"Fahrzeug: Höhe 163 cm, Länge 426 cm, Breite 175 cm.
-Vorderteil: Höhe 163 cm, Länge 165 cm, Breite 175 cm.
+EMD [Hrsg.]: Geschï¿½tze, Fuhrwerke und Material der schweizerischen Artillerie - Offizielle Ausgabe / Piï¿½ces, Voitures et Matï¿½riel de l'Artillerie suisse - Edition officielle, Bern: EMD, 1896, Tafel 11 (ï¿½berstempelt 22), 'Batterie-Rï¿½stwagen. Modell 1871. Feld-Artillerie - Chariot de batterie. Modï¿½le de 1871. Artillerie de campagne'. ",1871,,  ,Artillerie. ,"Fahrzeug: Hï¿½he 163 cm, Lï¿½nge 426 cm, Breite 175 cm.
+Vorderteil: Hï¿½he 163 cm, Lï¿½nge 165 cm, Breite 175 cm.
 Rad: Durchmesser 143 cm (vorne).
-Hinterteil: Höhe 163 cm, Länge 304 cm, Breite 175 cm.
+Hinterteil: Hï¿½he 163 cm, Lï¿½nge 304 cm, Breite 175 cm.
 Rad: Durchmesser 143 cm (hinten).
-Deichsel: Länge 323 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381551,LM-23584.1-2,Wagen und Schlitten,Sprengstoffwagen,"Eidg. Ord. 1882, geschlossen, 4-rädrig, Bocksitz auf dem Dach. Inhalt: Infanterie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1887 - 1900. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 328 x 166 cm. 
+Deichsel: Lï¿½nge 323 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381551,LM-23584.1-2,Wagen und Schlitten,Sprengstoffwagen,"Eidg. Ord. 1882, geschlossen, 4-rï¿½drig, Bocksitz auf dem Dach. Inhalt: Infanterie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1887 - 1900. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 328 x 166 cm. 
 
 Literatur:
-- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes de Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 88, 'Munitions-Wagen. Ordonnanz 1882. Genie - Chariot de munition. Ordonnance 1882. Génie'.
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerke, Thun: o. J., Abb. 106/107, 'Sprengstoffwagen 1882/18, K+W 1200' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1887 - 1900  ,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Infanterie. ,"Höhe 213 cm, Länge 328 cm, Breite 166 cm.
+- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes de Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 88, 'Munitions-Wagen. Ordonnanz 1882. Genie - Chariot de munition. Ordonnance 1882. Gï¿½nie'.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke, Thun: o. J., Abb. 106/107, 'Sprengstoffwagen 1882/18, K+W 1200' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1887 - 1900  ,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Infanterie. ,"Hï¿½he 213 cm, Lï¿½nge 328 cm, Breite 166 cm.
 Rad: Durchmesser 100 cm (vorne).
 Rad: Durchmesser 131 cm (hinten).
-Deichsel: Länge 343 cm.",
-300947,LM-23585,Wagen und Schlitten,Bäckereigerätschaftswagen (Pferdezug),"Eidg. Ord. 1885, 4-rädrig, mit hochbordigem Kasten und Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1888. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 497 x 167 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 343 cm.",
+300947,LM-23585,Wagen und Schlitten,Bï¿½ckereigerï¿½tschaftswagen (Pferdezug),"Eidg. Ord. 1885, 4-rï¿½drig, mit hochbordigem Kasten und Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1888. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 497 x 167 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 118 (Wagen gepackt)'Gerätschaftswagen. Ordonanz 1885. Verwaltungstruppen. Gerade Nummern mit Wagenwinde. Ungerade Nummern ohne Wagenwinde - Chariot à ustensiles. Ordonannce de 1885. Troupes d'administration. Numéro pair avec cric. Numéro impaire sans cric.'und 118 bis. (Wagen mit Auslegeordnung der Ausrüstung)/119.
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 132, 'K+W 2230, Bäckerwagen mit Anhängerdeichsel (für Motorfahrzeugzug, Wagen bepackt mit seitlich hochgeschlagener Blache). ",1888,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Verpflegungstruppen. ,"Höhe 231 cm, Länge 497 cm, Breite 167 cm.
+- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 118 (Wagen gepackt)'Gerï¿½tschaftswagen. Ordonanz 1885. Verwaltungstruppen. Gerade Nummern mit Wagenwinde. Ungerade Nummern ohne Wagenwinde - Chariot ï¿½ ustensiles. Ordonannce de 1885. Troupes d'administration. Numï¿½ro pair avec cric. Numï¿½ro impaire sans cric.'und 118 bis. (Wagen mit Auslegeordnung der Ausrï¿½stung)/119.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 132, 'K+W 2230, Bï¿½ckerwagen mit Anhï¿½ngerdeichsel (fï¿½r Motorfahrzeugzug, Wagen bepackt mit seitlich hochgeschlagener Blache). ",1888,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Verpflegungstruppen. ,"Hï¿½he 231 cm, Lï¿½nge 497 cm, Breite 167 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 132 cm (hinten).","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381552,LM-23586.1-2,Wagen und Schlitten,Bäckereigerätschaftswagen (Pferdezug),"Eidg. Ord. 1885, 4-rädrig, mit hochbordigem Kasten und Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1898. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 497 x 167 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+381552,LM-23586.1-2,Wagen und Schlitten,Bï¿½ckereigerï¿½tschaftswagen (Pferdezug),"Eidg. Ord. 1885, 4-rï¿½drig, mit hochbordigem Kasten und Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1898. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 497 x 167 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 118 (Wagen gepackt)'Gerätschaftswagen. Ordonanz 1885. Verwaltungstruppen. Gerade Nummern mit Wagenwinde. Ungerade Nummern ohne Wagenwinde - Chariot à ustensiles. Ordonannce de 1885. Troupes d'administration. Numéro pair avec cric. Numéro impaire sans cric.'und 118 bis. (Wagen mit Auslegeordnung der Ausrüstung)/119.
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 132, 'K+W 2230, Bäckerwagen mit Anhängerdeichsel (für Motorfahrzeugzug, Wagen bepackt mit seitlich hochgeschlagener Blache). ",1898,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Verpflegungstruppen. ,"Höhe 231 cm, Länge 497 cm, Breite 167 cm.
+- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 118 (Wagen gepackt)'Gerï¿½tschaftswagen. Ordonanz 1885. Verwaltungstruppen. Gerade Nummern mit Wagenwinde. Ungerade Nummern ohne Wagenwinde - Chariot ï¿½ ustensiles. Ordonannce de 1885. Troupes d'administration. Numï¿½ro pair avec cric. Numï¿½ro impaire sans cric.'und 118 bis. (Wagen mit Auslegeordnung der Ausrï¿½stung)/119.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 132, 'K+W 2230, Bï¿½ckerwagen mit Anhï¿½ngerdeichsel (fï¿½r Motorfahrzeugzug, Wagen bepackt mit seitlich hochgeschlagener Blache). ",1898,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Verpflegungstruppen. ,"Hï¿½he 231 cm, Lï¿½nge 497 cm, Breite 167 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 132 cm (hinten).
-Deichsel: Länge 342 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381553,LM-23587.1-3,Wagen und Schlitten,Blessiertenwagen,"Eidg. Ord. 1870, 4-rädrig, offene mit festem Dach. Inhalt: Sanität. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1888. Herkunft: Eidg. Zeughaus, Rapperswil. 227 x 407 x 167 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenguss. 
+Deichsel: Lï¿½nge 342 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381553,LM-23587.1-3,Wagen und Schlitten,Blessiertenwagen,"Eidg. Ord. 1870, 4-rï¿½drig, offene mit festem Dach. Inhalt: Sanitï¿½t. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1888. Herkunft: Eidg. Zeughaus, Rapperswil. 227 x 407 x 167 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenguss. 
 
 Literatur:
-- Bühlmann, R. [Fotos] / Brunner, J. [Reprod.]: Die schweizerischen Armee-Fuhrwerke 1882 - Auf Veranlassung des Militär-Departementes / Les Voitures de Guerre de l'Armée suisse - Par décision du Département militaire, Bern: EMD, 1882, Tafeln 43/44 (2 Vorder- und 1 Rückseite).
-- EMD [Hrsg.]: Fuhrwerke der schweizerischen Infanterie und Kavallerie - Offizielle Ausgabe / Voitures de l'Infanterie et de la Cavalerie suisse - Edition officielle, Bern: EMD, 1896, Tafeln 100/101 (Aufnahmen identisch mit jenen in: Lehrbuch für die Sanitätsmannschaft)
-- Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 53 (mit alter, niedriger Verdeckausführung).
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 338 (Innenansicht).
-- Schweizerische Armee [Hrsg.]: Lehrbuch für die Sanitätsmannschaft, Aufl. 11, Bern 1906, Fig. 88, 89 u. 90. ",1888,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Sanität. ,"Höhe 227 cm, Länge 407 cm, Breite 167 cm.
+- Bï¿½hlmann, R. [Fotos] / Brunner, J. [Reprod.]: Die schweizerischen Armee-Fuhrwerke 1882 - Auf Veranlassung des Militï¿½r-Departementes / Les Voitures de Guerre de l'Armï¿½e suisse - Par dï¿½cision du Dï¿½partement militaire, Bern: EMD, 1882, Tafeln 43/44 (2 Vorder- und 1 Rï¿½ckseite).
+- EMD [Hrsg.]: Fuhrwerke der schweizerischen Infanterie und Kavallerie - Offizielle Ausgabe / Voitures de l'Infanterie et de la Cavalerie suisse - Edition officielle, Bern: EMD, 1896, Tafeln 100/101 (Aufnahmen identisch mit jenen in: Lehrbuch fï¿½r die Sanitï¿½tsmannschaft)
+- Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 53 (mit alter, niedriger Verdeckausfï¿½hrung).
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 338 (Innenansicht).
+- Schweizerische Armee [Hrsg.]: Lehrbuch fï¿½r die Sanitï¿½tsmannschaft, Aufl. 11, Bern 1906, Fig. 88, 89 u. 90. ",1888,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Sanitï¿½t. ,"Hï¿½he 227 cm, Lï¿½nge 407 cm, Breite 167 cm.
 Rad: Durchmesser 79 cm (vorne).
 Rad: Durchmesser 109 cm (hinten).
-Deichsel: Länge 340 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenguss."
-381571,LM-23589.1-3,Wagen und Schlitten,Sanitäts-Fourgon,"Ehem. Ambulanz-Fourgon mit geschlossenem Kasten und Blachenbögen, ohne Bocksitz. Inhalt: Sanität. Eidg. Ord. 1870. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 454 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 340 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenguss."
+381571,LM-23589.1-3,Wagen und Schlitten,Sanitï¿½ts-Fourgon,"Ehem. Ambulanz-Fourgon mit geschlossenem Kasten und Blachenbï¿½gen, ohne Bocksitz. Inhalt: Sanitï¿½t. Eidg. Ord. 1870. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 454 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
 
 Literatur:
--  EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 103 'Ambulanzen-Fourgon. Ordonnanz 1870/80. Sanitätstruppen. -  Fourgon d'ambulance. Ordonnance de 1870/80. Troupes sanitaires.'
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerker (Fourgon), Band 2, Thun: o. J., Abb. 109/110, 'K+W 1210/1211 [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+-  EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 103 'Ambulanzen-Fourgon. Ordonnanz 1870/80. Sanitï¿½tstruppen. -  Fourgon d'ambulance. Ordonnance de 1870/80. Troupes sanitaires.'
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerker (Fourgon), Band 2, Thun: o. J., Abb. 109/110, 'K+W 1210/1211 [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
 Hildebrand, Carl, Zeughaus-Chronik Thun 1857-1982, Liebefeld/Bern, 1982, Abb. S. 30 oben und unten.
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 350.
-- Armée suisse: Instruction pour les sous-officiers d'armement et les armuriers, Berne: Imprimerie Paul Haller, 1887, Tafel IV. ",1870,,  ,Sanität. ,"Höhe 213 cm, Länge 454 cm, Breite 163 cm.
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 350.
+- Armï¿½e suisse: Instruction pour les sous-officiers d'armement et les armuriers, Berne: Imprimerie Paul Haller, 1887, Tafel IV. ",1870,,  ,Sanitï¿½t. ,"Hï¿½he 213 cm, Lï¿½nge 454 cm, Breite 163 cm.
 Rad: Durchmesser 103 cm (vorne).
 Rad: Durchmesser 133 cm (hinten).
-Deichsel: Länge 342 cm.","Holz. Eisen, geschmiedet. Eisenblech."
-381572,LM-23590.1-2,Wagen und Schlitten,Gerätschaftswagen,"Pontonier-Rüstwagen, Eidg. Ord. 1878, 4-rädrig, mit Boot (fehlt), mit Bocksitz. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1890. Herkunft: Eidg. Zeughaus, Rapperswil. 154 x 512 x 163 cm. Eisen, gewalzt, geschmiedet. Holz. 
+Deichsel: Lï¿½nge 342 cm.","Holz. Eisen, geschmiedet. Eisenblech."
+381572,LM-23590.1-2,Wagen und Schlitten,Gerï¿½tschaftswagen,"Pontonier-Rï¿½stwagen, Eidg. Ord. 1878, 4-rï¿½drig, mit Boot (fehlt), mit Bocksitz. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1890. Herkunft: Eidg. Zeughaus, Rapperswil. 154 x 512 x 163 cm. Eisen, gewalzt, geschmiedet. Holz. 
 
 Literatur:
-EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes du Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 79, 'Pontonnier-Rüstwagen mit gerader Nummer. Ordonnanz 1878. Genie - Chariot de pontonniers à numéro pair. Ordonnance de 1878. Génie'. ",1890,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Pontoniere. ,"Höhe 154 cm, Länge 512 cm, Breite 163 cm.
+EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes du Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 79, 'Pontonnier-Rï¿½stwagen mit gerader Nummer. Ordonnanz 1878. Genie - Chariot de pontonniers ï¿½ numï¿½ro pair. Ordonnance de 1878. Gï¿½nie'. ",1890,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Pontoniere. ,"Hï¿½he 154 cm, Lï¿½nge 512 cm, Breite 163 cm.
 Rad: Durchmesser 103 cm (vorne).
 Rad: Durchmesser 132 cm (hinten).
-Deichsel: Länge 342 cm.","Eisen, gewalzt, geschmiedet. Holz."
-381574,LM-23591.1-3,Wagen und Schlitten,Rüstwagen,"(2-teilig), 4-rädrig mit gleich grossen Rädern, geschlossen, ohne Bocksitz. Inhalt: Sappeure. Eidg. Ord. 1867. Herkunft: Eidg. Zeughaus, Rapperswil. 188 x 440 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 342 cm.","Eisen, gewalzt, geschmiedet. Holz."
+381574,LM-23591.1-3,Wagen und Schlitten,Rï¿½stwagen,"(2-teilig), 4-rï¿½drig mit gleich grossen Rï¿½dern, geschlossen, ohne Bocksitz. Inhalt: Sappeure. Eidg. Ord. 1867. Herkunft: Eidg. Zeughaus, Rapperswil. 188 x 440 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
 
 Literatur:
-EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes du Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 77 'Sappeur-Rüstwagen. Ordonnanz 1867. Genie - Chariot de sapeurs. Ordonnance de 1889. Génie'. ",1867,,  ,Sappeure. ,"Fahrzeug: Höhe 188 cm, Länge 440 cm, Breite 163 cm.
-Vorderteil: Höhe 184 cm, Länge 198 cm, Breite 163 cm.
+EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes du Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 77 'Sappeur-Rï¿½stwagen. Ordonnanz 1867. Genie - Chariot de sapeurs. Ordonnance de 1889. Gï¿½nie'. ",1867,,  ,Sappeure. ,"Fahrzeug: Hï¿½he 188 cm, Lï¿½nge 440 cm, Breite 163 cm.
+Vorderteil: Hï¿½he 184 cm, Lï¿½nge 198 cm, Breite 163 cm.
 Rad: Durchmesser 133 cm (vorn).
-Hinterteil: Höhe 188 cm, Länge 340 cm, Breite 163 cm.
+Hinterteil: Hï¿½he 188 cm, Lï¿½nge 340 cm, Breite 163 cm.
 Rad: Durchmesser 133 cm (hinten).
-Deichsel: Länge 344 cm.","Holz. Eisen, geschmiedet. Eisenblech."
-381575,LM-23592.1-2,Wagen und Schlitten,Rüstwagen,"Eidg. Ord. 1880, 4-rädrig, geschlossen, ohne Bocksitz und Dachgalerie. Inhalt: Eisenbahntruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1880. Herkunft: Eidg. Zeughaus, Rapperswil. 199 x 442 x 163 cm. Holz. Eisen, geschmiedet. 
+Deichsel: Lï¿½nge 344 cm.","Holz. Eisen, geschmiedet. Eisenblech."
+381575,LM-23592.1-2,Wagen und Schlitten,Rï¿½stwagen,"Eidg. Ord. 1880, 4-rï¿½drig, geschlossen, ohne Bocksitz und Dachgalerie. Inhalt: Eisenbahntruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1880. Herkunft: Eidg. Zeughaus, Rapperswil. 199 x 442 x 163 cm. Holz. Eisen, geschmiedet. 
 
 Literatur:
-EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes du Génie suisse - Edition officielle, Bern: EMD, 1896, ähnlich Tafel 87 'Mineurrüstwagen für Eisenbahnkompagnien. Ordonnanz 1880. (Trägt gerade Nummern.) - Chariot de mineurs pour compagnies de chemin de fer. Ordonnance de 1880 (Porte un numéro pair.).'. ",1880,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Eisenbahntruppen. ,"Höhe 199 cm, Länge 442 cm, Breite 163 cm.
+EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes du Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, ï¿½hnlich Tafel 87 'Mineurrï¿½stwagen fï¿½r Eisenbahnkompagnien. Ordonnanz 1880. (Trï¿½gt gerade Nummern.) - Chariot de mineurs pour compagnies de chemin de fer. Ordonnance de 1880 (Porte un numï¿½ro pair.).'. ",1880,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Eisenbahntruppen. ,"Hï¿½he 199 cm, Lï¿½nge 442 cm, Breite 163 cm.
 Rad: Durchmesser 103 cm (vorne).
 Rad: Durchmesser 133 cm (hinten).
-Deichsel: Länge 342 cm.","Holz. Eisen, geschmiedet."
-381576,LM-23593.1-2,Wagen und Schlitten,Bäckereigerätschaftswagen (Pferdezug),"Eidg. Ord. 1874, 4-rädrig, offen, mit Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1876. Herkunft: Eidg. Zeughaus, Rapperswil. 191 x 471 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 342 cm.","Holz. Eisen, geschmiedet."
+381576,LM-23593.1-2,Wagen und Schlitten,Bï¿½ckereigerï¿½tschaftswagen (Pferdezug),"Eidg. Ord. 1874, 4-rï¿½drig, offen, mit Bocksitz. Inhalt: Verpflegungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1876. Herkunft: Eidg. Zeughaus, Rapperswil. 191 x 471 x 163 cm. Holz. Eisen, geschmiedet. Eisenblech. 
 
 Literatur:
-EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, ähnlich Tafel 120 (deutliche Unterschiede im Bereich der Befestigung der Seitenwände auf den Längsträgern, im Bereich des Fussbrettes, zusätzlich seitliche klappbare Trittbretter und 4 Blachenbögen 'Proviantwagen. Ordonnanz 1871. -  Char à approvisionnements. Ordonnance de 1871.'. ",1876,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Verpflegungstruppen. ,"Höhe 191 cm, Länge 471 cm, Breite 163 cm.
+EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Verwaltungstruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, ï¿½hnlich Tafel 120 (deutliche Unterschiede im Bereich der Befestigung der Seitenwï¿½nde auf den Lï¿½ngstrï¿½gern, im Bereich des Fussbrettes, zusï¿½tzlich seitliche klappbare Trittbretter und 4 Blachenbï¿½gen 'Proviantwagen. Ordonnanz 1871. -  Char ï¿½ approvisionnements. Ordonnance de 1871.'. ",1876,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Verpflegungstruppen. ,"Hï¿½he 191 cm, Lï¿½nge 471 cm, Breite 163 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 132 cm.
-Deichsel: Länge 342 cm.","Holz. Eisen, geschmiedet. Eisenblech."
-381584,LM-23596.1-3,Wagen und Schlitten,Park-Caisson,"2-teilig, aus Protze und Caisson, ohne Ausrüstung. Inhalt: Artillerie. Eidg. Ord. 1870. Herkunft: Eidg. Zeughaus, Rapperswil. 180 x 427 x 177 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 342 cm.","Holz. Eisen, geschmiedet. Eisenblech."
+381584,LM-23596.1-3,Wagen und Schlitten,Park-Caisson,"2-teilig, aus Protze und Caisson, ohne Ausrï¿½stung. Inhalt: Artillerie. Eidg. Ord. 1870. Herkunft: Eidg. Zeughaus, Rapperswil. 180 x 427 x 177 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Thun: o. J., Abb. 70 ('Aufnahmen), 'K+W 631/633' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1870,,  ,Artillerie. ,"Fahrzeug: Höhe 180 cm, Länge 427 cm, Breite 177 cm.
-Vorderteil: Höhe 180 cm, Länge 165 cm, Breite 177 cm.
+Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Thun: o. J., Abb. 70 ('Aufnahmen), 'K+W 631/633' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1870,,  ,Artillerie. ,"Fahrzeug: Hï¿½he 180 cm, Lï¿½nge 427 cm, Breite 177 cm.
+Vorderteil: Hï¿½he 180 cm, Lï¿½nge 165 cm, Breite 177 cm.
 Rad: Durchmesser 143 cm (vorn).
-Hinterteil: Höhe 172 cm, Länge 319 cm, Breite 177 cm.
+Hinterteil: Hï¿½he 172 cm, Lï¿½nge 319 cm, Breite 177 cm.
 Rad: Durchmesser 143 cm (hinten).
-Deichsel: Länge 368 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381560,LM-23597.1-3,Wagen und Schlitten,Caisson,"Artillerie-Park-Caisson, Eidg. Ord. 1884, zu 12 cm Geschütz, 2-teilig. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 177 x 428 x 178 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech, genietet. 
+Deichsel: Lï¿½nge 368 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+381560,LM-23597.1-3,Wagen und Schlitten,Caisson,"Artillerie-Park-Caisson, Eidg. Ord. 1884, zu 12 cm Geschï¿½tz, 2-teilig. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 177 x 428 x 178 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech, genietet. 
 
 Literatur:
-dg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 57/65, 'K+W 1217/1229' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1914,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Artillerie. ,"Fahrzeug: Höhe 177 cm, Länge 428 cm, Breite 178 cm.
-Vorderteil: Höhe 167 cm, Länge 180 cm, Breite 178 cm (Länge ohne Deichsel).
+dg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 57/65, 'K+W 1217/1229' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1914,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Artillerie. ,"Fahrzeug: Hï¿½he 177 cm, Lï¿½nge 428 cm, Breite 178 cm.
+Vorderteil: Hï¿½he 167 cm, Lï¿½nge 180 cm, Breite 178 cm (Lï¿½nge ohne Deichsel).
 Rad: Durchmesser 124 cm (vorne).
-Hinterteil: Höhe 177 cm, Länge 255 cm, Breite 178 cm.
+Hinterteil: Hï¿½he 177 cm, Lï¿½nge 255 cm, Breite 178 cm.
 Rad: Durchmesser 124 cm (hinten).
-Deichsel: Länge 301 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech, genietet."
-381562,LM-23598.1-2,Wagen und Schlitten,Drahtwagen,"Drahtwagen, Eidg. Ord. 1924, Übermittlungstr., 4-rädrig, mit Mannschaftssitzen. Inhalt: Übermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 178 x 394 x 164 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 301 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech, genietet."
+381562,LM-23598.1-2,Wagen und Schlitten,Drahtwagen,"Drahtwagen, Eidg. Ord. 1924, ï¿½bermittlungstr., 4-rï¿½drig, mit Mannschaftssitzen. Inhalt: ï¿½bermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 178 x 394 x 164 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 55 (2 Aufnahmen)., 'K+W 13030/1304'.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 55 (2 Aufnahmen)., 'K+W 13030/1304'.
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, S. 169 oben.
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 55 (2 Aufnahmen).
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie II: Rohrücklaufgeschütze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 157.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106034. ",1925,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Übermittlungstruppen. ,"Höhe 178 cm, Länge 394 cm, Breite 164 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 55 (2 Aufnahmen).
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie II: Rohrï¿½cklaufgeschï¿½tze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 157.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106034. ",1925,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,ï¿½bermittlungstruppen. ,"Hï¿½he 178 cm, Lï¿½nge 394 cm, Breite 164 cm.
 Rad: Durchmesser 88 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381586,LM-23599,Wagen und Schlitten,Transportwagen für Tandemzug,"2-rädrig, für Rohre zu 7,5 cm Feldkanone. Inhalt: Artillerie. 1900 - 1910. Herkunft: Eidg. Zeughaus, Rapperswil. 81 x 301 x 101 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381586,LM-23599,Wagen und Schlitten,Transportwagen fï¿½r Tandemzug,"2-rï¿½drig, fï¿½r Rohre zu 7,5 cm Feldkanone. Inhalt: Artillerie. 1900 - 1910. Herkunft: Eidg. Zeughaus, Rapperswil. 81 x 301 x 101 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie II: Rohrücklaufgeschütze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 160. ",1900 - 1910  ,,  ,Artillerie. ,"Höhe 81 cm, Länge 301 cm, Breite 101 cm.
+Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie II: Rohrï¿½cklaufgeschï¿½tze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 160. ",1900 - 1910  ,,  ,Artillerie. ,"Hï¿½he 81 cm, Lï¿½nge 301 cm, Breite 101 cm.
 .","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-375596,LM-23600,Wagen und Schlitten,Brieftaubenwagen,"4-rädriger ex. Post-Gepäckwagen, mit Bocksitz und aufgesetztem Taubenschlag. Inhalt: Brieftaubendienst. Eidg. Ord. 1917. Herkunft: Eidg. Zeughaus; Eidg. Zeughaus, Rapperswil. 239 x 375 x 168 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+375596,LM-23600,Wagen und Schlitten,Brieftaubenwagen,"4-rï¿½driger ex. Post-Gepï¿½ckwagen, mit Bocksitz und aufgesetztem Taubenschlag. Inhalt: Brieftaubendienst. Eidg. Ord. 1917. Herkunft: Eidg. Zeughaus; Eidg. Zeughaus, Rapperswil. 239 x 375 x 168 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-Hildebrand, Carl: Gefiederte Kuriere - Der Brieftaubendienst der Schweizer Armee 1917-1994, Wabern: Carl Hildebrand, 2001, Texte mit Abb. S. 83, 86, 92, 119, 127, 199 u. 200. ",1917,,    ,Brieftaubendienst. ,"Höhe 239 cm, Länge 375 cm, Breite 168 cm.
+Hildebrand, Carl: Gefiederte Kuriere - Der Brieftaubendienst der Schweizer Armee 1917-1994, Wabern: Carl Hildebrand, 2001, Texte mit Abb. S. 83, 86, 92, 119, 127, 199 u. 200. ",1917,,    ,Brieftaubendienst. ,"Hï¿½he 239 cm, Lï¿½nge 375 cm, Breite 168 cm.
 Rad: Durchmesser 91 cm (vorne).
 Rad: Durchmesser 123 cm (hinten).","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381578,LM-23601.1-6,Wagen und Schlitten,Werkzeugwagen,"Eidg. Ord. 1916, zu Sch. 15 cm Feld-Haub., 4-rädrig, offene Brücke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. 1917. Herkunft: Eidg. Zeughaus, Rapperswil. 185 x 374 x 164 cm. Holz. Eisen, gewalzt, geschmiedet. 
+381578,LM-23601.1-6,Wagen und Schlitten,Werkzeugwagen,"Eidg. Ord. 1916, zu Sch. 15 cm Feld-Haub., 4-rï¿½drig, offene Brï¿½cke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. 1917. Herkunft: Eidg. Zeughaus, Rapperswil. 185 x 374 x 164 cm. Holz. Eisen, gewalzt, geschmiedet. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 66 (2 Aufnahmen), 'K+W 1230/1231' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106024. ",1917,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Artillerie. ,"Höhe 185 cm, Länge 374 cm, Breite 164 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 66 (2 Aufnahmen), 'K+W 1230/1231' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106024. ",1917,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Artillerie. ,"Hï¿½he 185 cm, Lï¿½nge 374 cm, Breite 164 cm.
 Rad: Durchmesser 89 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 300 cm (Pferdezug).
-Deichsel: Länge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet."
-381561,LM-23602.1-2,Wagen und Schlitten,Schanzzeugwagen,"Eidg. Ord. 1916, zu Sch. 15 cm Feld-Haub., 4-rädrig, offene Brücke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1917. Herkunft: Eidg. Zeughaus, Rapperswil. 245 x 374 x 163 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 300 cm (Pferdezug).
+Deichsel: Lï¿½nge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet."
+381561,LM-23602.1-2,Wagen und Schlitten,Schanzzeugwagen,"Eidg. Ord. 1916, zu Sch. 15 cm Feld-Haub., 4-rï¿½drig, offene Brï¿½cke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1917. Herkunft: Eidg. Zeughaus, Rapperswil. 245 x 374 x 163 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 67, 'K+W 1232' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106021. ",1917,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Artillerie. ,"Höhe 245 cm, Länge 374 cm, Breite 163 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 67, 'K+W 1232' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106021. ",1917,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Artillerie. ,"Hï¿½he 245 cm, Lï¿½nge 374 cm, Breite 163 cm.
 Rad: Durchmesser 88 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381557,LM-23603.1-2,Wagen und Schlitten,Sprengstoffwagen,"Eidg. Ord. 1882, geschlossen, 4-rädrig, Bocksitz auf dem Dach. Inhalt: Genie-/Festungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1887. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 328 x 166 cm. 
+Deichsel: Lï¿½nge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381557,LM-23603.1-2,Wagen und Schlitten,Sprengstoffwagen,"Eidg. Ord. 1882, geschlossen, 4-rï¿½drig, Bocksitz auf dem Dach. Inhalt: Genie-/Festungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1887. Herkunft: Eidg. Zeughaus, Rapperswil. 213 x 328 x 166 cm. 
 
 Literatur:
-- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes de Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 88, 'Munitions-Wagen. Ordonnanz 1882. Genie - Chariot de munition. Ordonnance 1882. Génie'.
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerke, Thun: o. J., Abb. 106/107, 'Sprengstoffwagen 1882/18, K+W 1200/1205' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1887,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Genie-/Festungstruppen. ,"Höhe 213 cm, Länge 328 cm, Breite 166 cm.
+- EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes de Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 88, 'Munitions-Wagen. Ordonnanz 1882. Genie - Chariot de munition. Ordonnance 1882. Gï¿½nie'.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke, Thun: o. J., Abb. 106/107, 'Sprengstoffwagen 1882/18, K+W 1200/1205' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1887,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Genie-/Festungstruppen. ,"Hï¿½he 213 cm, Lï¿½nge 328 cm, Breite 166 cm.
 Rad: Durchmesser 100 cm (vorne).
-Deichsel: Länge 343 cm.",
-381565,LM-23604.1-2,Wagen und Schlitten,Ambulanz-Fourgon,"Ambulanz-Fourgon, geschlossen, 4-rädrig, Langbaumfahrgestell. Inhalt: Sanität. Eidg. Ord. 1877. Herkunft: Eidg. Zeughaus, Rapperswil. 240 x 372 x 168 cm (H. über Laternenhalt). Holz. Eisen, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 343 cm.",
+381565,LM-23604.1-2,Wagen und Schlitten,Ambulanz-Fourgon,"Ambulanz-Fourgon, geschlossen, 4-rï¿½drig, Langbaumfahrgestell. Inhalt: Sanitï¿½t. Eidg. Ord. 1877. Herkunft: Eidg. Zeughaus, Rapperswil. 240 x 372 x 168 cm (H. ï¿½ber Laternenhalt). Holz. Eisen, geschmiedet. Eisenblech. 
 
 Literatur:
-fizielle Ausgabe / Voitures et Matériel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 102, 'Reservefourgon für Korpslazarett. Ordonnanz 1877. Sanitätstruppen (früher Ambulanz Fourgon. Ordonnanz 1857) - Fourgon de réserve du lazaret de corps d'armée. Ordonnance de 1877. Troupes sanitaires (ci-devant fourgon d'ambulance. Ordonnance de 1857)'.
-- EMD [Hrsg.]: Illustriertes Handbuch mit Daten über Fuhrwerke, Geschütze, Maschinen und Geräte, Bern: EMD, 1896 (gebundenes Ex. Der Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial), Tafel 102. 
-- Schneider, Hugo Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie I: Geschütze der Artillerie ohne mechanischen Rohrrücklauf, Bd. 8, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Ab. 349. ",1877,,  ,Sanität. ,"Höhe 240 cm, Länge 372 cm, Breite 168 cm (H. über Laternenhalt).
+fizielle Ausgabe / Voitures et Matï¿½riel des Troupes d'Administration suisse - Edition officielle, Bern: EMD, 1896, Tafeln 102, 'Reservefourgon fï¿½r Korpslazarett. Ordonnanz 1877. Sanitï¿½tstruppen (frï¿½her Ambulanz Fourgon. Ordonnanz 1857) - Fourgon de rï¿½serve du lazaret de corps d'armï¿½e. Ordonnance de 1877. Troupes sanitaires (ci-devant fourgon d'ambulance. Ordonnance de 1857)'.
+- EMD [Hrsg.]: Illustriertes Handbuch mit Daten ï¿½ber Fuhrwerke, Geschï¿½tze, Maschinen und Gerï¿½te, Bern: EMD, 1896 (gebundenes Ex. Der Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial), Tafel 102. 
+- Schneider, Hugo Hrsg.]  /  Betschmann, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie I: Geschï¿½tze der Artillerie ohne mechanischen Rohrrï¿½cklauf, Bd. 8, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Ab. 349. ",1877,,  ,Sanitï¿½t. ,"Hï¿½he 240 cm, Lï¿½nge 372 cm, Breite 168 cm (H. ï¿½ber Laternenhalt).
 Rad: Durchmesser 100 cm (vorne).
 Rad: Durchmesser 100 cm.
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet. Eisenblech."
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet. Eisenblech."
 381583,LM-23615.1-3,Wagen und Schlitten,Caisson,"Caisson zu 15 cm schwerer Feld-Haubitze, 2-teilig. Inhalt: Artillerie. Herstellung: Eidg. Zeughaus, Rapperswil. Eidg. Ord. 1916. 193 x 379 x 200 cm. Stahlblech, gepresst, genietet. Stahl, geschmiedet. Eisen, geschmiedet. Holz. 
 
 Literatur:
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 61 'K+W 1223', Abb. 62 'K+W 1224', Abb. 63 'K+W 1225', Abb. 64 'K+W 1226'.
- - Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106044. ",1916,"Eidg. Zeughaus, Rapperswil. ",,Artillerie. ,"Fahrzeug: Höhe 193 cm, Länge 379 cm, Breite 200 cm.
-Vorderteil: Höhe 191 cm, Länge 203 cm, Breite 200 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke (Fourgon), Bd. 3, Thun o.J., Abb. 61 'K+W 1223', Abb. 62 'K+W 1224', Abb. 63 'K+W 1225', Abb. 64 'K+W 1226'.
+ - Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106044. ",1916,"Eidg. Zeughaus, Rapperswil. ",,Artillerie. ,"Fahrzeug: Hï¿½he 193 cm, Lï¿½nge 379 cm, Breite 200 cm.
+Vorderteil: Hï¿½he 191 cm, Lï¿½nge 203 cm, Breite 200 cm.
 Rad: Durchmesser 140 cm (vorn).
-Hinterteil: Höhe 193 cm, Länge 204 cm, Breite 200 cm.
+Hinterteil: Hï¿½he 193 cm, Lï¿½nge 204 cm, Breite 200 cm.
 Rad: Durchmesser 140 cm.
-Deichsel: Länge 362 cm.","Stahlblech, gepresst, genietet. Stahl, geschmiedet. Eisen, geschmiedet. Holz."
-171617,LM-30449,Wagen und Schlitten,Schlitten,"Typologisch ein Vorläufer des Grindelwaldnerschlittens. Kufen emporgeführt. Herstellung: wohl Krattigen. Datiert 1889. Herkunft: Christ(en) Müller. 33,5 x 77 x 35 cm. ",1889,wohl Krattigen. ,Besitzer ,,"Höhe 33.5 cm, Länge 77 cm, Breite 35 cm.",
-172028,LM-35581,Wagen und Schlitten,Schlitten,"Die Längsseiten mit je 3 dekorativen Eisenbändern beschlagen. Herstellung: Hersteller Kessler. 1800 - 1900. 23,5 x 45,5 x 35 cm. Nussbaumholz, beschlagen. ",1800 - 1900  ,Hersteller Kessler. ,,,"Höhe 23.5 cm, Länge 45.5 cm, Breite 35 cm.","Nussbaumholz, beschlagen."
-8429,LM-35586,Wagen und Schlitten,Handwagen,Brückenwagen mit Handzug. 1900 - 1910. ,1900 - 1910  ,,,,,
-8422,LM-41274,Wagen und Schlitten,Wirtschaftswagen,Kombiniert für Gras und Mist. 1890 - 1900. 503 x 162 cm (Wagen mit Deichsel). Holz. ,1890 - 1900  ,,,,"Wagen mit Deichsel: Länge 503 cm, Breite 162 cm.",Holz.
-8430,LM-44206.1-2,Wagen und Schlitten,Fasstransportwagen,Ladebrücke: 2 in der Mitte leicht nach aussen gebogene Langhölzer. Inhalt: Küferei. 1800 - 2000. Herkunft: August Lenzin (?1968). 380 x 100 x 60 cm. Tannenholz. ,1800 - 2000,,Küfer ,Küferei. ,"Höhe 380 cm, Breite 100 cm, Tiefe 60 cm.",Tannenholz.
-148699,LM-46926.b,Wagen und Schlitten,Rettungsschlitten,"Modell Hunger-Gut, ALN-331-4760. 1900 - 2000. Herkunft: Zeughaus Interlaken. 104 x 297 x 67 x 30 cm. ",1900 - 2000  ,,  ,,"Höhe 104 cm, Länge 297 cm, Breite 67 cm, Tiefe 30 cm.",
-8414,LM-52445,Wagen und Schlitten,Handwagen,"Kastenförmiger Aufbau mit Blech beschlagen, Auslieferwagen d. Confiserie Chardon. Um 1900. Herkunft: Chardon Confiserie (1911 - 1987), Zürich. 188 x 100 x 140 cm. ",1900,,   (Objekt),,"Höhe 188 cm, Breite 100 cm, Tiefe 140 cm.",
-141917,LM-53378,Wagen und Schlitten,Kinderstossschlitten,"Vorn mit hochgezogenem Bug, hinten mit Querstange zum Stossen. Um 1890. Herkunft: Familie Egg, Winterthur. 100 x 35 x 23 cm. Hartholz, bemalt, gefasst (Fassmalerei). ",1890,,Besitzer ,,"Höhe 100 cm, Breite 35 cm, Tiefe 23 cm.","Hartholz, bemalt, gefasst (Fassmalerei)."
-8423,LM-55455,Wagen und Schlitten,Wirtschaftswagen,"Einsetzbar als Holz-, Heu-, oder Mistwagen. 485 x 112 x 62 cm. ",,,,,"Höhe 485 cm, Breite 112 cm, Tiefe 62 cm.",
-133641,LM-58357,Wagen und Schlitten,Schlitten,"Sitzfläche aus 4 Längshölzern, eiserne Querstange vorn mit 4 Eisenringen. 1890 - 1900. Herkunft: Familie Matter, Kölliken. 28 x 87 x 34 cm. Buchenholz. ",1890 - 1900  ,,Besitzer ,,"Höhe 28 cm, Länge 87 cm, Breite 34 cm.",Buchenholz.
-8424,LM-59950,Wagen und Schlitten,Lediwagen,"Vierräderiger Leiterwagen für Pferdezug. Inhalt: Alpwirtschaft. Herstellung: Appenzell (Region). Um 1850 - 1950. Herkunft: Familie Knöpfel, Hundwil (AR), Hof Im Ramsten; Familie Knöpfel, Hundwil. 307 x 130 x 107 cm. ",1850 - 1950  ,Appenzell (Region). ,Besitzer    (Objekt),Alpwirtschaft. ,"Höhe 307 cm, Breite 130 cm, Tiefe 107 cm.",
-8415,LM-60878,Wagen und Schlitten,Holzrückekarren,"Zum 'Rücken' v. Baumstämmen verwendet, d.unter d.Achse a.Ketten angehängt wurden. Herstellung: wohl Gustav Gutknecht (?1956), Thalheim an der Thur. Um 1950. 310 x 167 cm. Eschenholz. ",1950,"wohl Gustav Gutknecht (?1956), Thalheim an der Thur. ",,,"Höhe 310 cm, Breite 167 cm.",Eschenholz.
-8428,LM-61968,Wagen und Schlitten,Leiterwagen,"Für Heutransport; altertümliche Konstruktion, zerlegbar. 1800 - 1900. 150 x 97 x 73 cm. ",1800 - 1900  ,,,,"Höhe 150 cm, Breite 97 cm, Tiefe 73 cm.",
-8416,LM-62174,Wagen und Schlitten,Karren,"Für Pferde- oder Ochsenzug, mit fester Deichsel. Um 1925 - 1950. 386 x 120 x 100 cm. Eschenholz. ",1925 - 1950  ,,,,"Höhe 386 cm, Breite 120 cm, Tiefe 100 cm.",Eschenholz.
-5959,LM-64751,Wagen und Schlitten,Schlitten,"Brettkufenschlitten, sog. Füdlitrucke. Herstellung: Waadt. 1840 - 1860. 19,5 x 50,5 x 27 cm. Eisen, bemalt. Holz, bemalt. ",1840 - 1860  ,Waadt. ,,,"Höhe 19.5 cm, Länge 50.5 cm, Breite 27 cm.","Eisen, bemalt. Holz, bemalt."
-119472,LM-67337,Wagen und Schlitten,Heuschlitten,"Leicht gebauter Hornschlitten; über aufgebogenen Kufen 2 Joche. Inhalt: Ackerbau. 1900 - 1950. 100 x 204 x 87 cm. Eschenholz. 
+Deichsel: Lï¿½nge 362 cm.","Stahlblech, gepresst, genietet. Stahl, geschmiedet. Eisen, geschmiedet. Holz."
+171617,LM-30449,Wagen und Schlitten,Schlitten,"Typologisch ein Vorlï¿½ufer des Grindelwaldnerschlittens. Kufen emporgefï¿½hrt. Herstellung: wohl Krattigen. Datiert 1889. Herkunft: Christ(en) Mï¿½ller. 33,5 x 77 x 35 cm. ",1889,wohl Krattigen. ,Besitzer ,,"Hï¿½he 33.5 cm, Lï¿½nge 77 cm, Breite 35 cm.",
+172028,LM-35581,Wagen und Schlitten,Schlitten,"Die Lï¿½ngsseiten mit je 3 dekorativen Eisenbï¿½ndern beschlagen. Herstellung: Hersteller Kessler. 1800 - 1900. 23,5 x 45,5 x 35 cm. Nussbaumholz, beschlagen. ",1800 - 1900  ,Hersteller Kessler. ,,,"Hï¿½he 23.5 cm, Lï¿½nge 45.5 cm, Breite 35 cm.","Nussbaumholz, beschlagen."
+8429,LM-35586,Wagen und Schlitten,Handwagen,Brï¿½ckenwagen mit Handzug. 1900 - 1910. ,1900 - 1910  ,,,,,
+8422,LM-41274,Wagen und Schlitten,Wirtschaftswagen,Kombiniert fï¿½r Gras und Mist. 1890 - 1900. 503 x 162 cm (Wagen mit Deichsel). Holz. ,1890 - 1900  ,,,,"Wagen mit Deichsel: Lï¿½nge 503 cm, Breite 162 cm.",Holz.
+8430,LM-44206.1-2,Wagen und Schlitten,Fasstransportwagen,Ladebrï¿½cke: 2 in der Mitte leicht nach aussen gebogene Langhï¿½lzer. Inhalt: Kï¿½ferei. 1800 - 2000. Herkunft: August Lenzin (?1968). 380 x 100 x 60 cm. Tannenholz. ,1800 - 2000,,Kï¿½fer ,Kï¿½ferei. ,"Hï¿½he 380 cm, Breite 100 cm, Tiefe 60 cm.",Tannenholz.
+148699,LM-46926.b,Wagen und Schlitten,Rettungsschlitten,"Modell Hunger-Gut, ALN-331-4760. 1900 - 2000. Herkunft: Zeughaus Interlaken. 104 x 297 x 67 x 30 cm. ",1900 - 2000  ,,  ,,"Hï¿½he 104 cm, Lï¿½nge 297 cm, Breite 67 cm, Tiefe 30 cm.",
+8414,LM-52445,Wagen und Schlitten,Handwagen,"Kastenfï¿½rmiger Aufbau mit Blech beschlagen, Auslieferwagen d. Confiserie Chardon. Um 1900. Herkunft: Chardon Confiserie (1911 - 1987), Zï¿½rich. 188 x 100 x 140 cm. ",1900,,   (Objekt),,"Hï¿½he 188 cm, Breite 100 cm, Tiefe 140 cm.",
+141917,LM-53378,Wagen und Schlitten,Kinderstossschlitten,"Vorn mit hochgezogenem Bug, hinten mit Querstange zum Stossen. Um 1890. Herkunft: Familie Egg, Winterthur. 100 x 35 x 23 cm. Hartholz, bemalt, gefasst (Fassmalerei). ",1890,,Besitzer ,,"Hï¿½he 100 cm, Breite 35 cm, Tiefe 23 cm.","Hartholz, bemalt, gefasst (Fassmalerei)."
+8423,LM-55455,Wagen und Schlitten,Wirtschaftswagen,"Einsetzbar als Holz-, Heu-, oder Mistwagen. 485 x 112 x 62 cm. ",,,,,"Hï¿½he 485 cm, Breite 112 cm, Tiefe 62 cm.",
+133641,LM-58357,Wagen und Schlitten,Schlitten,"Sitzflï¿½che aus 4 Lï¿½ngshï¿½lzern, eiserne Querstange vorn mit 4 Eisenringen. 1890 - 1900. Herkunft: Familie Matter, Kï¿½lliken. 28 x 87 x 34 cm. Buchenholz. ",1890 - 1900  ,,Besitzer ,,"Hï¿½he 28 cm, Lï¿½nge 87 cm, Breite 34 cm.",Buchenholz.
+8424,LM-59950,Wagen und Schlitten,Lediwagen,"Vierrï¿½deriger Leiterwagen fï¿½r Pferdezug. Inhalt: Alpwirtschaft. Herstellung: Appenzell (Region). Um 1850 - 1950. Herkunft: Familie Knï¿½pfel, Hundwil (AR), Hof Im Ramsten; Familie Knï¿½pfel, Hundwil. 307 x 130 x 107 cm. ",1850 - 1950  ,Appenzell (Region). ,Besitzer    (Objekt),Alpwirtschaft. ,"Hï¿½he 307 cm, Breite 130 cm, Tiefe 107 cm.",
+8415,LM-60878,Wagen und Schlitten,Holzrï¿½ckekarren,"Zum 'Rï¿½cken' v. Baumstï¿½mmen verwendet, d.unter d.Achse a.Ketten angehï¿½ngt wurden. Herstellung: wohl Gustav Gutknecht (?1956), Thalheim an der Thur. Um 1950. 310 x 167 cm. Eschenholz. ",1950,"wohl Gustav Gutknecht (?1956), Thalheim an der Thur. ",,,"Hï¿½he 310 cm, Breite 167 cm.",Eschenholz.
+8428,LM-61968,Wagen und Schlitten,Leiterwagen,"Fï¿½r Heutransport; altertï¿½mliche Konstruktion, zerlegbar. 1800 - 1900. 150 x 97 x 73 cm. ",1800 - 1900  ,,,,"Hï¿½he 150 cm, Breite 97 cm, Tiefe 73 cm.",
+8416,LM-62174,Wagen und Schlitten,Karren,"Fï¿½r Pferde- oder Ochsenzug, mit fester Deichsel. Um 1925 - 1950. 386 x 120 x 100 cm. Eschenholz. ",1925 - 1950  ,,,,"Hï¿½he 386 cm, Breite 120 cm, Tiefe 100 cm.",Eschenholz.
+5959,LM-64751,Wagen und Schlitten,Schlitten,"Brettkufenschlitten, sog. Fï¿½dlitrucke. Herstellung: Waadt. 1840 - 1860. 19,5 x 50,5 x 27 cm. Eisen, bemalt. Holz, bemalt. ",1840 - 1860  ,Waadt. ,,,"Hï¿½he 19.5 cm, Lï¿½nge 50.5 cm, Breite 27 cm.","Eisen, bemalt. Holz, bemalt."
+119472,LM-67337,Wagen und Schlitten,Heuschlitten,"Leicht gebauter Hornschlitten; ï¿½ber aufgebogenen Kufen 2 Joche. Inhalt: Ackerbau. 1900 - 1950. 100 x 204 x 87 cm. Eschenholz. 
 
 Literatur:
-Vgl. W. Speiser: Bilder zur Basler Geschichte, Basel 1940, S. 75. ",1900 - 1950  ,,,Ackerbau. ,"Brücke: Höhe 100 cm, Länge 204 cm, Breite 87 cm.",Eschenholz.
-8493,LM-68058,Wagen und Schlitten,Jagdwagen,"Offener Wagen 'vis-à-vis, 6 Sitze. Inhalt: Kutsche. Herstellung: Fabrikant Kauffmann & Cie., Basel. 1900 - 1910. Herkunft: Ruckstuhl, St. Gallen. 588 x 165,5 x 205 cm. ",1900 - 1910  ,"Fabrikant Kauffmann & Cie., Basel. ",   (Objekt),Kutsche. ,"Höhe 588 cm, Breite 165.5 cm, Tiefe 205 cm.",
-112958,LM-68059.1-3,Wagen und Schlitten,Dog-Cart,"Dos-à-Dos, 4 Sitze. Inhalt: Kutsche. Herstellung: Hersteller J. Kaspar Geissberger, Zürich. 1900 - 1910. 397 x 183 x 172 cm. ",1900 - 1910  ,"Hersteller J. Kaspar Geissberger, Zürich. ",,Kutsche. ,"Höhe 397 cm, Breite 183 cm, Tiefe 172 cm.",
-8404,LM-69043.1-3,Wagen und Schlitten,Kinderwagen,"Rückenlehnbrett und Staketen konturiert ausgesägt. Wappen u. Initialen PPG. Inhalt: Familienwappen Familie Paul Gross (Paulgross) Müstair. Datiert 1778. 60 x 53 x 59,5 cm. Objekt: Fichtenholz. Objekt: Birkenholz. ",1778,,,Familienwappen Familie Paul Gross (Paulgross) Müstair. ,"Höhe 60 cm, Länge 142 cm, Breite 53 cm (mit Deichsel).",Objekt: Fichtenholz. Objekt: Birkenholz.
-113481,LM-69284.1-8,Wagen und Schlitten,Pferdeschlitten,"Ein- oder zweispännig, Bock und Herrensitz je zweiplätzig. Inhalt: Pferdegespann. 1840 - 1860. Herkunft: Oberneunforn. 250 x 120 cm. Eisen. ",1840 - 1860  ,,  ,Pferdegespann. ,"Höhe 250 cm, Breite 120 cm.",Eisen.
-539,LM-70431,Wagen und Schlitten,Schlitten,"Mit hochaufragenden Kufen. Rostrot bemalt. Herstellung: Bern. Um 1880. Herkunft: Familie Schlappbach, Steffisburg. 42,5 x 78,5 x 36,5 cm. Eschenholz. ",1880,Bern. ,Besitzer ,,"Höhe 42.5 cm, Länge 78.5 cm, Breite 36.5 cm.",Eschenholz.
-6827,LM-71365,Wagen und Schlitten,Schlittenkasten,"Seitenteile eines gestaffelten Zweiplätzers mit Lakaienbrett. Inhalt: Winterliche Vergnügungen. Jagdszene. Herstellung: Anonym. Um 1760. Herkunft: Fischingen (TG), Kloster; Heinrich Angst-Jennings (1847 - 1922), Regensberg. 167 x 252 x 98 cm. Holz, Öl. 
+Vgl. W. Speiser: Bilder zur Basler Geschichte, Basel 1940, S. 75. ",1900 - 1950  ,,,Ackerbau. ,"Brï¿½cke: Hï¿½he 100 cm, Lï¿½nge 204 cm, Breite 87 cm.",Eschenholz.
+8493,LM-68058,Wagen und Schlitten,Jagdwagen,"Offener Wagen 'vis-ï¿½-vis, 6 Sitze. Inhalt: Kutsche. Herstellung: Fabrikant Kauffmann & Cie., Basel. 1900 - 1910. Herkunft: Ruckstuhl, St. Gallen. 588 x 165,5 x 205 cm. ",1900 - 1910  ,"Fabrikant Kauffmann & Cie., Basel. ",   (Objekt),Kutsche. ,"Hï¿½he 588 cm, Breite 165.5 cm, Tiefe 205 cm.",
+112958,LM-68059.1-3,Wagen und Schlitten,Dog-Cart,"Dos-ï¿½-Dos, 4 Sitze. Inhalt: Kutsche. Herstellung: Hersteller J. Kaspar Geissberger, Zï¿½rich. 1900 - 1910. 397 x 183 x 172 cm. ",1900 - 1910  ,"Hersteller J. Kaspar Geissberger, Zï¿½rich. ",,Kutsche. ,"Hï¿½he 397 cm, Breite 183 cm, Tiefe 172 cm.",
+8404,LM-69043.1-3,Wagen und Schlitten,Kinderwagen,"Rï¿½ckenlehnbrett und Staketen konturiert ausgesï¿½gt. Wappen u. Initialen PPG. Inhalt: Familienwappen Familie Paul Gross (Paulgross) Mï¿½stair. Datiert 1778. 60 x 53 x 59,5 cm. Objekt: Fichtenholz. Objekt: Birkenholz. ",1778,,,Familienwappen Familie Paul Gross (Paulgross) Mï¿½stair. ,"Hï¿½he 60 cm, Lï¿½nge 142 cm, Breite 53 cm (mit Deichsel).",Objekt: Fichtenholz. Objekt: Birkenholz.
+113481,LM-69284.1-8,Wagen und Schlitten,Pferdeschlitten,"Ein- oder zweispï¿½nnig, Bock und Herrensitz je zweiplï¿½tzig. Inhalt: Pferdegespann. 1840 - 1860. Herkunft: Oberneunforn. 250 x 120 cm. Eisen. ",1840 - 1860  ,,  ,Pferdegespann. ,"Hï¿½he 250 cm, Breite 120 cm.",Eisen.
+539,LM-70431,Wagen und Schlitten,Schlitten,"Mit hochaufragenden Kufen. Rostrot bemalt. Herstellung: Bern. Um 1880. Herkunft: Familie Schlappbach, Steffisburg. 42,5 x 78,5 x 36,5 cm. Eschenholz. ",1880,Bern. ,Besitzer ,,"Hï¿½he 42.5 cm, Lï¿½nge 78.5 cm, Breite 36.5 cm.",Eschenholz.
+6827,LM-71365,Wagen und Schlitten,Schlittenkasten,"Seitenteile eines gestaffelten Zweiplï¿½tzers mit Lakaienbrett. Inhalt: Winterliche Vergnï¿½gungen. Jagdszene. Herstellung: Anonym. Um 1760. Herkunft: Fischingen (TG), Kloster; Heinrich Angst-Jennings (1847 - 1922), Regensberg. 167 x 252 x 98 cm. Holz, ï¿½l. 
 
 Literatur:
-A. KNOEPFLI, Kdm TG 2, 1955, S. 219, S. 220, Abb. 206 (dem Maler Johann Baptist Ittasohn zugeschrieben). - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 291, Nr. 3.3.18. - A. FURGER, Kutschen und Schlitten in der Schweiz, Vom Streitwagen zum Stadtcoupé, Zürich 1993, S. 34, Abb. 40. ",1760,Anonym. ,   (nach Knöpfli)Sammler ,Winterliche Vergnügungen. Jagdszene. ,"Höhe 167 cm, Länge 252 cm, Breite 98 cm.","Holz, Öl."
-103115,LM-73381,Wagen und Schlitten,Leichenwagen,Für 1 Pferd. Auf dem Wagenboden hölzerne Schienen zum Einschieben der Sargbahre. Inhalt: Tod und Sterben. 1894. 335 x 150 cm. Rad: Messing. ,1894,,,Tod und Sterben. ,"Höhe 335 cm, Breite 150 cm.",Rad: Messing.
-111065,LM-73813,Wagen und Schlitten,Stossschlitten,"3-plätzig; Bug aus Holz, mit goldbronziertem Schwanenkopf. Inhalt: Schwan (Objekt). 1850 - 1900. 88 x 137 x 74 cm (Max. Ausdehnung, Ku). Eisen, lackiert. ",1850 - 1900  ,,, Schwan (Objekt). ,"Höhe 88 cm, Länge 137 cm, Breite 74 cm ( Max. Ausdehnung, Ku).","Eisen, lackiert."
-179938,LM-76488,Wagen und Schlitten,Motorrad,"2-Zylinder V-Motor, Antrieb auf Hinterrad über Keilriemen. Herstellung: Hersteller Moser Fritz (1904 - 1936); Moser Fritz (1904 - 1936). 1906. 95 x 190 x 72 cm. Eisen. ",1906,Hersteller Moser Fritz (1904 - 1936); Moser Fritz (1904 - 1936),,,"Höhe 95 cm, Länge 190 cm, Breite 72 cm.",Eisen.
+A. KNOEPFLI, Kdm TG 2, 1955, S. 219, S. 220, Abb. 206 (dem Maler Johann Baptist Ittasohn zugeschrieben). - H.-P. MATHIS u.a., Barockes Fischingen, Katalog zur Ausstellung Kloster Fischingen, 27.9.-27.10.1992, S. 291, Nr. 3.3.18. - A. FURGER, Kutschen und Schlitten in der Schweiz, Vom Streitwagen zum Stadtcoupï¿½, Zï¿½rich 1993, S. 34, Abb. 40. ",1760,Anonym. ,   (nach Knï¿½pfli)Sammler ,Winterliche Vergnï¿½gungen. Jagdszene. ,"Hï¿½he 167 cm, Lï¿½nge 252 cm, Breite 98 cm.","Holz, ï¿½l."
+103115,LM-73381,Wagen und Schlitten,Leichenwagen,Fï¿½r 1 Pferd. Auf dem Wagenboden hï¿½lzerne Schienen zum Einschieben der Sargbahre. Inhalt: Tod und Sterben. 1894. 335 x 150 cm. Rad: Messing. ,1894,,,Tod und Sterben. ,"Hï¿½he 335 cm, Breite 150 cm.",Rad: Messing.
+111065,LM-73813,Wagen und Schlitten,Stossschlitten,"3-plï¿½tzig; Bug aus Holz, mit goldbronziertem Schwanenkopf. Inhalt: Schwan (Objekt). 1850 - 1900. 88 x 137 x 74 cm (Max. Ausdehnung, Ku). Eisen, lackiert. ",1850 - 1900  ,,, Schwan (Objekt). ,"Hï¿½he 88 cm, Lï¿½nge 137 cm, Breite 74 cm ( Max. Ausdehnung, Ku).","Eisen, lackiert."
+179938,LM-76488,Wagen und Schlitten,Motorrad,"2-Zylinder V-Motor, Antrieb auf Hinterrad ï¿½ber Keilriemen. Herstellung: Hersteller Moser Fritz (1904 - 1936); Moser Fritz (1904 - 1936). 1906. 95 x 190 x 72 cm. Eisen. ",1906,Hersteller Moser Fritz (1904 - 1936); Moser Fritz (1904 - 1936),,,"Hï¿½he 95 cm, Lï¿½nge 190 cm, Breite 72 cm.",Eisen.
 179939,LM-76489,Wagen und Schlitten,Fahrrad,"Niederrad, Marke `Adler`; Pneus Hartgummi, Bremse auf Vorderrad, Ledersattel. Herstellung: Adler. 1890. ",1890,Adler. ,,,,
 179941,LM-76490,Wagen und Schlitten,Fahrrad,"Herrenfahrrad, Marke Wega, Typ `Cosmos`. Herstellung: Schild & Co. Th., Biel. 1920. ",1920,"Schild & Co. Th., Biel. ",,,,
-179943,LM-76491,Wagen und Schlitten,Fahrrad,"Niederrad (Kreuzrohr); Bremse auf Vorderrad (Hartgummi), Fussstützen. 1890. 109 x 180 x 67 cm. ",1890,,,,"Höhe 109 cm, Länge 180 cm, Breite 67 cm.",
-179944,LM-76492,Wagen und Schlitten,Fahrrad,"Marke `Dürkopp` mit Kardanantrieb und Nagelfänger, SSM 1981-1056, 1899. Datiert 1899. 140 x 180 x 53 cm. Eisen. ",1899,,,,"Höhe 140 cm, Länge 180 cm, Breite 53 cm.",Eisen.
-195890,LM-77691.1-4,Wagen und Schlitten,Motorrad,"'Motosacoche' Serienprodukt, 1941 auf Elektrobetrieb umgerüstet. Herstellung: Hersteller Motosacoche S.A., Genf; Motosacoche S.A., Genf. Um 1940. Herkunft: Heinz Meyer-Joray (1904 - 1985), Basel; Heinz Meyer-Joray (1904 - 1985), Basel. Eisen. ",1940,"Hersteller Motosacoche S.A., Genf; Motosacoche S.A., Genf",Besitzer   ,,,Eisen.
-303972,LM-78728,Wagen und Schlitten,Schlitten,"Niedriger Rennschlitten mit schmalen Kufen mit T-Profil. Herstellung: Philadelphia. Um 1935. 15,5 x 129 x 53 cm. Stahl. Eschenholz. ",1935,Philadelphia. ,,,"Höhe 15.5 cm, Länge 129 cm, Breite 53 cm.",Stahl. Eschenholz.
-324051,LM-80610,Wagen und Schlitten,Hörnerschlitten,"2 lange, gebogene Kufen, verstärkt, mit angesetzten 'Hörnern', offene Ladefläche. Inhalt: Weinbau. 1900 - 1950. Herkunft: Veytaux. 93 x 215 x 83 cm. Holz. Eisen. ",1900 - 1950  ,,  ,Weinbau. ,"Höhe 93 cm, Länge 215 cm, Breite 83 cm.",Holz. Eisen.
-324078,LM-80614,Wagen und Schlitten,Rodelschlitten,"Davoserschlitten. Holzkufen mit Eisenbeschlag. Querstange mit Seil. 1900 - 1950. Herkunft: Veytaux. 46,5 x 74 x 47 cm. Holz. Eisen. ",1900 - 1950  ,,  ,,"Höhe 46.5 cm, Länge 74 cm, Breite 47 cm.",Holz. Eisen.
-335740,LM-82351,Wagen und Schlitten,Parkuhr,"Parkuhr der Marke Venner. Herstellung: Taxomex (ehem. Venner) (von 1961). Um 1961 - 1974. 134 x 20 x 10,5 cm. Metall, gegossen. ",1961 - 1974  ,Taxomex (ehem. Venner) (von 1961). ,,,"Höhe 134 cm, Breite 20 cm, Tiefe 10.5 cm.","Metall, gegossen. "
-377535,LM-83272.1-9,Wagen und Schlitten,Leichenwagen,"aus Thalheim a/Thur, für ein oder zwei Pferde, mit Sargbarren und Pferdezubehör. Inhalt: Tod und Sterben. 1900 - 1967. Herkunft: Thalheim an der Thur. 205 x 300 x 170 cm. Holz, bemalt. Eisen, geschmiedet. Blech, bemalt. Sitzteil: Leder. ",1900 - 1967,,  ,Tod und Sterben. ,"Höhe 205 cm, Länge 300 cm, Breite 170 cm.","Holz, bemalt. Eisen, geschmiedet. Blech, bemalt. Sitzteil: Leder. "
-381558,LM-83283.1-2,Wagen und Schlitten,Sanitäts-Fourgon,"Sanitäts-Fourgon B, 4-rädrig, mit Bocksitz, Blachenbogen und Blache. Inhalt: Sanität. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1915. Herkunft: Eidg. Zeughaus, Rapperswil; Sarnen (OW), Zeughaus. 213 x 349 x 164 cm. Holz. Eisen, geschmiedet, gewalzt. 
+179943,LM-76491,Wagen und Schlitten,Fahrrad,"Niederrad (Kreuzrohr); Bremse auf Vorderrad (Hartgummi), Fussstï¿½tzen. 1890. 109 x 180 x 67 cm. ",1890,,,,"Hï¿½he 109 cm, Lï¿½nge 180 cm, Breite 67 cm.",
+179944,LM-76492,Wagen und Schlitten,Fahrrad,"Marke `Dï¿½rkopp` mit Kardanantrieb und Nagelfï¿½nger, SSM 1981-1056, 1899. Datiert 1899. 140 x 180 x 53 cm. Eisen. ",1899,,,,"Hï¿½he 140 cm, Lï¿½nge 180 cm, Breite 53 cm.",Eisen.
+195890,LM-77691.1-4,Wagen und Schlitten,Motorrad,"'Motosacoche' Serienprodukt, 1941 auf Elektrobetrieb umgerï¿½stet. Herstellung: Hersteller Motosacoche S.A., Genf; Motosacoche S.A., Genf. Um 1940. Herkunft: Heinz Meyer-Joray (1904 - 1985), Basel; Heinz Meyer-Joray (1904 - 1985), Basel. Eisen. ",1940,"Hersteller Motosacoche S.A., Genf; Motosacoche S.A., Genf",Besitzer   ,,,Eisen.
+303972,LM-78728,Wagen und Schlitten,Schlitten,"Niedriger Rennschlitten mit schmalen Kufen mit T-Profil. Herstellung: Philadelphia. Um 1935. 15,5 x 129 x 53 cm. Stahl. Eschenholz. ",1935,Philadelphia. ,,,"Hï¿½he 15.5 cm, Lï¿½nge 129 cm, Breite 53 cm.",Stahl. Eschenholz.
+324051,LM-80610,Wagen und Schlitten,Hï¿½rnerschlitten,"2 lange, gebogene Kufen, verstï¿½rkt, mit angesetzten 'Hï¿½rnern', offene Ladeflï¿½che. Inhalt: Weinbau. 1900 - 1950. Herkunft: Veytaux. 93 x 215 x 83 cm. Holz. Eisen. ",1900 - 1950  ,,  ,Weinbau. ,"Hï¿½he 93 cm, Lï¿½nge 215 cm, Breite 83 cm.",Holz. Eisen.
+324078,LM-80614,Wagen und Schlitten,Rodelschlitten,"Davoserschlitten. Holzkufen mit Eisenbeschlag. Querstange mit Seil. 1900 - 1950. Herkunft: Veytaux. 46,5 x 74 x 47 cm. Holz. Eisen. ",1900 - 1950  ,,  ,,"Hï¿½he 46.5 cm, Lï¿½nge 74 cm, Breite 47 cm.",Holz. Eisen.
+335740,LM-82351,Wagen und Schlitten,Parkuhr,"Parkuhr der Marke Venner. Herstellung: Taxomex (ehem. Venner) (von 1961). Um 1961 - 1974. 134 x 20 x 10,5 cm. Metall, gegossen. ",1961 - 1974  ,Taxomex (ehem. Venner) (von 1961). ,,,"Hï¿½he 134 cm, Breite 20 cm, Tiefe 10.5 cm.","Metall, gegossen. "
+377535,LM-83272.1-9,Wagen und Schlitten,Leichenwagen,"aus Thalheim a/Thur, fï¿½r ein oder zwei Pferde, mit Sargbarren und Pferdezubehï¿½r. Inhalt: Tod und Sterben. 1900 - 1967. Herkunft: Thalheim an der Thur. 205 x 300 x 170 cm. Holz, bemalt. Eisen, geschmiedet. Blech, bemalt. Sitzteil: Leder. ",1900 - 1967,,  ,Tod und Sterben. ,"Hï¿½he 205 cm, Lï¿½nge 300 cm, Breite 170 cm.","Holz, bemalt. Eisen, geschmiedet. Blech, bemalt. Sitzteil: Leder. "
+381558,LM-83283.1-2,Wagen und Schlitten,Sanitï¿½ts-Fourgon,"Sanitï¿½ts-Fourgon B, 4-rï¿½drig, mit Bocksitz, Blachenbogen und Blache. Inhalt: Sanitï¿½t. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1915. Herkunft: Eidg. Zeughaus, Rapperswil; Sarnen (OW), Zeughaus. 213 x 349 x 164 cm. Holz. Eisen, geschmiedet, gewalzt. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 126, 'Sanitätsfourgon A&B, K+W 1153/1154' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106021. ",1915,"Eidg. Konstruktionswerkstätte, Thun. ",    ,Sanität. ,"Höhe 213 cm, Länge 349 cm, Breite 164 cm.","Holz. Eisen, geschmiedet, gewalzt."
-369101,LM-83284,Wagen und Schlitten,Gebirgsfourgon,"Gebirgsfourgon, Eidg. Ord. 1912, 4-rädrig, ungefedert, mit Bocksitz. Inhalt: Gebirgsinfanterie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1939. Herkunft: Eidg. Zeughaus, Rapperswil. 155 x 297 x 132 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 126, 'Sanitï¿½tsfourgon A&B, K+W 1153/1154' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106021. ",1915,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",    ,Sanitï¿½t. ,"Hï¿½he 213 cm, Lï¿½nge 349 cm, Breite 164 cm.","Holz. Eisen, geschmiedet, gewalzt."
+369101,LM-83284,Wagen und Schlitten,Gebirgsfourgon,"Gebirgsfourgon, Eidg. Ord. 1912, 4-rï¿½drig, ungefedert, mit Bocksitz. Inhalt: Gebirgsinfanterie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1939. Herkunft: Eidg. Zeughaus, Rapperswil. 155 x 297 x 132 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, S. 197/198.
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 405/406. 
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J. Abb. 150/151 (151: 2 Aufnahmen).
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Fuhrwerke (Geb.Fourgon & Packungen), Bd. 5, Thun o.J., Abb. 1305/1311.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106002. ",1939,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Gebirgsinfanterie. ,"Höhe 155 cm, Länge 297 cm, Breite 132 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 405/406. 
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J. Abb. 150/151 (151: 2 Aufnahmen).
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Fuhrwerke (Geb.Fourgon & Packungen), Bd. 5, Thun o.J., Abb. 1305/1311.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106002. ",1939,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Gebirgsinfanterie. ,"Hï¿½he 155 cm, Lï¿½nge 297 cm, Breite 132 cm.
 Rad: Durchmesser 65 cm (vorne).
 Rad: Durchmesser 79 cm (hinten).","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381559,LM-83285.1-2,Wagen und Schlitten,Kabelwagen,"Kabelwagen, Eidg. Ord. 1912, 4-rädrig, mit Bocksitz und Blachenverdeck. Inhalt: Übermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun (Fahrzeug). Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 225 x 380 x 163 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+381559,LM-83285.1-2,Wagen und Schlitten,Kabelwagen,"Kabelwagen, Eidg. Ord. 1912, 4-rï¿½drig, mit Bocksitz und Blachenverdeck. Inhalt: ï¿½bermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun (Fahrzeug). Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 225 x 380 x 163 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 136 'Kabelwagen 1912, K+W 1259/1260' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke, Bd. 2, Thun: o. J., Abb. 136 'Kabelwagen 1912, K+W 1259/1260' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 95.
 - Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106035.
-. ",1914,"Eidg. Konstruktionswerkstätte, Thun (Fahrzeug). ",  ,Übermittlungstruppen. ,"Fahrzeug: Höhe 225 cm, Länge 380 cm, Breite 163 cm.
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381563,LM-83286.1-3,Wagen und Schlitten,Rüstwagen,"Pontonier-Rüstwagen, Eidg. Ord. 1878, 4-rädrig, mit Boot (fehlt), ohne Bocksitz. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstätte. Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 150 x 460 x 171 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+. ",1914,"Eidg. Konstruktionswerkstï¿½tte, Thun (Fahrzeug). ",  ,ï¿½bermittlungstruppen. ,"Fahrzeug: Hï¿½he 225 cm, Lï¿½nge 380 cm, Breite 163 cm.
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+381563,LM-83286.1-3,Wagen und Schlitten,Rï¿½stwagen,"Pontonier-Rï¿½stwagen, Eidg. Ord. 1878, 4-rï¿½drig, mit Boot (fehlt), ohne Bocksitz. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstï¿½tte. Datiert nach Marke 1925. Herkunft: Eidg. Zeughaus, Rapperswil. 150 x 460 x 171 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 445, 'Pont.Rüstwagen mit Mittelstück (zu Boot, mit alten Holznabenräder und alter Bremsanordnung) 'K+W 1291', Abb. 446, 'Pont.Rüstwagen mit Schnabellstück (Bugteil zu Boot, mit alten Holznabenräder und alter Bremsanordnung) 'K+W 1292'v. Brtr. K+W 1120/1121', Abb. 447, 'Pont.Rüstwagen (mit Mittelstück zu Boot) 'K+W 1293', Abb. 448, 'Rüstwagen m. Ponto (zu Boot) 'K+W 1123', Abb. 462, 'Pont.Rüstwagen 'K+W 1120', Abb. 445, 'Pont.Rüstwagen Div.Brtr. 'K+W 1121', [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106052. ",1925,Eidg. Konstruktionswerkstätte. ,  ,Pontoniere. ,"Höhe 150 cm, Länge 460 cm, Breite 171 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 445, 'Pont.Rï¿½stwagen mit Mittelstï¿½ck (zu Boot, mit alten Holznabenrï¿½der und alter Bremsanordnung) 'K+W 1291', Abb. 446, 'Pont.Rï¿½stwagen mit Schnabellstï¿½ck (Bugteil zu Boot, mit alten Holznabenrï¿½der und alter Bremsanordnung) 'K+W 1292'v. Brtr. K+W 1120/1121', Abb. 447, 'Pont.Rï¿½stwagen (mit Mittelstï¿½ck zu Boot) 'K+W 1293', Abb. 448, 'Rï¿½stwagen m. Ponto (zu Boot) 'K+W 1123', Abb. 462, 'Pont.Rï¿½stwagen 'K+W 1120', Abb. 445, 'Pont.Rï¿½stwagen Div.Brtr. 'K+W 1121', [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106052. ",1925,Eidg. Konstruktionswerkstï¿½tte. ,  ,Pontoniere. ,"Hï¿½he 150 cm, Lï¿½nge 460 cm, Breite 171 cm.
 Rad: Durchmesser 100 cm (vorne).
 Rad: Durchmesser 130 cm (hinten).
-Deichsel: Länge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381564,LM-83287.1-3,Wagen und Schlitten,Caisson,"Eidg. Ord. 1903, zu 7,5 cm Feldartillerie, 2-teilig. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte. Datiert nach Marke 1905. 170 x 422 x 168 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst. 
+Deichsel: Lï¿½nge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381564,LM-83287.1-3,Wagen und Schlitten,Caisson,"Eidg. Ord. 1903, zu 7,5 cm Feldartillerie, 2-teilig. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte. Datiert nach Marke 1905. 170 x 422 x 168 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 50 (?)/51, 'K+W 706/1298' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106040. ",1905,Eidg. Konstruktionswerkstätte. ,,Artillerie. ,"Fahrzeug: Höhe 170 cm, Länge 422 cm, Breite 168 cm.
-Vorderteil: Höhe 158 cm, Länge 183 cm, Breite 168 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 50 (?)/51, 'K+W 706/1298' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106040. ",1905,Eidg. Konstruktionswerkstï¿½tte. ,,Artillerie. ,"Fahrzeug: Hï¿½he 170 cm, Lï¿½nge 422 cm, Breite 168 cm.
+Vorderteil: Hï¿½he 158 cm, Lï¿½nge 183 cm, Breite 168 cm.
 Rad: Durchmesser 130 cm (vorne).
-Hinterteil: Höhe 170 cm, Länge 256 cm, Breite 168 cm.
+Hinterteil: Hï¿½he 170 cm, Lï¿½nge 256 cm, Breite 168 cm.
 Rad: Durchmesser 130 cm (hinten).
-Deichsel: Länge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst."
-369108,LM-83288,Wagen und Schlitten,Rammenwagen,"Schweres Mod. 1925, 4-rädrig, mit Luftkammerbereifung, mit zerlegter Ramme. Inhalt: Genie-/Festungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1926. Herkunft: Eidg. Zeughaus, Rapperswil. 159 x 886 x 163 cm (L. mit Rammenrute). Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst. Gummi. 
+Deichsel: Lï¿½nge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst."
+369108,LM-83288,Wagen und Schlitten,Rammenwagen,"Schweres Mod. 1925, 4-rï¿½drig, mit Luftkammerbereifung, mit zerlegter Ramme. Inhalt: Genie-/Festungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1926. Herkunft: Eidg. Zeughaus, Rapperswil. 159 x 886 x 163 cm (L. mit Rammenrute). Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst. Gummi. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 464 (2 Aufnahmen)'Schwerer Rammenwagen, K+W 1470/1471' (mit eisenbereiften Saverne-Räder, vor Umbau auf Luftkammerbereifung PALLAS) [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106058. ",1926,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Genie-/Festungstruppen. ,"Höhe 159 cm, Länge 886 cm, Breite 163 cm (L. mit Rammenrute).
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 464 (2 Aufnahmen)'Schwerer Rammenwagen, K+W 1470/1471' (mit eisenbereiften Saverne-Rï¿½der, vor Umbau auf Luftkammerbereifung PALLAS) [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106058. ",1926,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Genie-/Festungstruppen. ,"Hï¿½he 159 cm, Lï¿½nge 886 cm, Breite 163 cm (L. mit Rammenrute).
 Rad: Durchmesser 104 cm (vorne und hinten).","Holz. Eisen, gewalzt, geschmiedet. Eisenblech, gepresst. Gummi."
-381566,LM-83289.1-3,Wagen und Schlitten,Fernschreiberwagen (ex. Feldpostbüro),"Eidg. Ord. 1900, geschlossen, 4-rädrig, mit Bocksitz. Inhalt: Übermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1908. Herkunft: Eidg. Zeughaus, Rapperswil. 265 x 368 x 173 cm. Holz. Sperrholz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+381566,LM-83289.1-3,Wagen und Schlitten,Fernschreiberwagen (ex. Feldpostbï¿½ro),"Eidg. Ord. 1900, geschlossen, 4-rï¿½drig, mit Bocksitz. Inhalt: ï¿½bermittlungstruppen. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1908. Herkunft: Eidg. Zeughaus, Rapperswil. 265 x 368 x 173 cm. Holz. Sperrholz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien von Geniematerial, Band 1, Thun: o. J., Abb. 101/102 'Feldpostbureauwagen 1900 K+W 15/16' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1908,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Übermittlungstruppen. ,"Höhe 265 cm, Länge 368 cm, Breite 173 cm.
+Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien von Geniematerial, Band 1, Thun: o. J., Abb. 101/102 'Feldpostbureauwagen 1900 K+W 15/16' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]. ",1908,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,ï¿½bermittlungstruppen. ,"Hï¿½he 265 cm, Lï¿½nge 368 cm, Breite 173 cm.
 Rad: Durchmesser 89 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 323 cm.","Holz. Sperrholz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381567,LM-83290.1-3,Wagen und Schlitten,Werkzeugwagen,"Mineurwagen, 4-rädrig, mit Vollgummibereifung, mit Bocksitz und offener Brücke. Inhalt: Mineure. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1922. Herkunft: Eidg. Zeughaus, Rapperswil. 212 x 307 x 146 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 323 cm.","Holz. Sperrholz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381567,LM-83290.1-3,Wagen und Schlitten,Werkzeugwagen,"Mineurwagen, 4-rï¿½drig, mit Vollgummibereifung, mit Bocksitz und offener Brï¿½cke. Inhalt: Mineure. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1922. Herkunft: Eidg. Zeughaus, Rapperswil. 212 x 307 x 146 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J. Abb. 133, 'K+W 852' (Ansicht vor Umbau auf Vollgummibereifung).
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Fuhrwerke (Geb.Fourgon & Packungen), Bd. 5, Thun o.J., Abb. 245, 'K+W 1073' (Werksaufnahme ohne Anstrich, mit Vollgummibereifung).
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106019. ",1922,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Mineure. ,"Höhe 212 cm, Länge 307 cm, Breite 146 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J. Abb. 133, 'K+W 852' (Ansicht vor Umbau auf Vollgummibereifung).
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Fuhrwerke (Geb.Fourgon & Packungen), Bd. 5, Thun o.J., Abb. 245, 'K+W 1073' (Werksaufnahme ohne Anstrich, mit Vollgummibereifung).
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106019. ",1922,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Mineure. ,"Hï¿½he 212 cm, Lï¿½nge 307 cm, Breite 146 cm.
 Rad: Durchmesser 74 cm (vorne).
 Rad: Durchmesser 90 cm (hinten).
-Deichsel: Länge 320 cm (Pferdezug).
-Deichsel: Länge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381568,LM-83291.1-2,Wagen und Schlitten,Schanzzeugwagen,"Schanzzeugwagen, Eidg. Ord. 1889, 4-rädrig, geschlossen, ohne Bocksitz. Inhalt: Sappeure. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1891. Herkunft: Eidg. Zeughaus, Rapperswil. 212 x 452 x 162 cm. Holz. Eisen, geschmiedet, gewalzt. 
+Deichsel: Lï¿½nge 320 cm (Pferdezug).
+Deichsel: Lï¿½nge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381568,LM-83291.1-2,Wagen und Schlitten,Schanzzeugwagen,"Schanzzeugwagen, Eidg. Ord. 1889, 4-rï¿½drig, geschlossen, ohne Bocksitz. Inhalt: Sappeure. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1891. Herkunft: Eidg. Zeughaus, Rapperswil. 212 x 452 x 162 cm. Holz. Eisen, geschmiedet, gewalzt. 
 
 Literatur:
-Ausgabe / Voitures et Matériel des Troupes de Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 90 'Werkzeugwagen der Genie-Halbbatillone. Ordonnnanz 1889. Genie - Chariot d'outiles de demi-bataillon du Génie. Ordonnancer 1889.'. ",1891,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Sappeure. ,"Höhe 212 cm, Länge 452 cm, Breite 162 cm.
+Ausgabe / Voitures et Matï¿½riel des Troupes de Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 90 'Werkzeugwagen der Genie-Halbbatillone. Ordonnnanz 1889. Genie - Chariot d'outiles de demi-bataillon du Gï¿½nie. Ordonnancer 1889.'. ",1891,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Sappeure. ,"Hï¿½he 212 cm, Lï¿½nge 452 cm, Breite 162 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 132 cm (hinten).
-Deichsel: Länge 341 cm.","Holz. Eisen, geschmiedet, gewalzt."
-381569,LM-83292.1-2,Wagen und Schlitten,Gerätschaftswagen,"Mineur-Rüstwagen, Eidg. Ord. 1880, 4-rädrig, geschlossen, ohne Bocksitz. Inhalt: Mineure. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1880. Herkunft: Eidg. Zeughaus, Rapperswil. 198 x 436 x 162 cm. Holz. Eisen, geschmiedet, gewalzt. 
+Deichsel: Lï¿½nge 341 cm.","Holz. Eisen, geschmiedet, gewalzt."
+381569,LM-83292.1-2,Wagen und Schlitten,Gerï¿½tschaftswagen,"Mineur-Rï¿½stwagen, Eidg. Ord. 1880, 4-rï¿½drig, geschlossen, ohne Bocksitz. Inhalt: Mineure. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1880. Herkunft: Eidg. Zeughaus, Rapperswil. 198 x 436 x 162 cm. Holz. Eisen, geschmiedet, gewalzt. 
 
 Literatur:
-EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes du Génie suisse - Edition officielle, Bern: EMD, ähnlich Tafel 90 aber ohne Dachgalerie 'Werkzeugwagen der Genie-Halbbataillone. Ordonnanz 1889. Genie - Chariot d'outils de demi-bataillons du Génie. Ordonnance de 1889. Génie'. ",1880,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Mineure. ,"Höhe 198 cm, Länge 436 cm, Breite 162 cm.
+EMD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes du Gï¿½nie suisse - Edition officielle, Bern: EMD, ï¿½hnlich Tafel 90 aber ohne Dachgalerie 'Werkzeugwagen der Genie-Halbbataillone. Ordonnanz 1889. Genie - Chariot d'outils de demi-bataillons du Gï¿½nie. Ordonnance de 1889. Gï¿½nie'. ",1880,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Mineure. ,"Hï¿½he 198 cm, Lï¿½nge 436 cm, Breite 162 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 132 cm (hinten).
-Deichsel: Länge 334 cm.","Holz. Eisen, geschmiedet, gewalzt."
-381570,LM-83293.1-3,Wagen und Schlitten,Blessiertenwagen,"Eidg. Ord. 1918, 4-rädrig, mit festem Dach und geschlossenem Kastenvorderteil. Inhalt: Sanität. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1918. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 439 x 163 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 334 cm.","Holz. Eisen, geschmiedet, gewalzt."
+381570,LM-83293.1-3,Wagen und Schlitten,Blessiertenwagen,"Eidg. Ord. 1918, 4-rï¿½drig, mit festem Dach und geschlossenem Kastenvorderteil. Inhalt: Sanitï¿½t. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1918. Herkunft: Eidg. Zeughaus, Rapperswil. 231 x 439 x 163 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 121 'K+W 1254, Blessiertenwagen 1918'.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106046. ",1918,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Sanität. ,"Höhe 231 cm, Länge 439 cm, Breite 163 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 121 'K+W 1254, Blessiertenwagen 1918'.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106046. ",1918,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Sanitï¿½t. ,"Hï¿½he 231 cm, Lï¿½nge 439 cm, Breite 163 cm.
 Rad: Durchmesser 88 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-375598,LM-83294,Wagen und Schlitten,Stations-/Telefonwagen,"Eidg. Ord. 1910/24, geschlossen, 4-rädrig, mit Bocksitz. Inhalt: Übermittlungstruppen. Herstellung: Zürich. Datiert nach Marke 1913. Herkunft: Eidg. Zeughaus, Rapperswil. 246 x 339 x 168 cm. Holz. Sperrholz. Eisen, geschmiedet, gewalzt. Eisenblech. Glas. 
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+375598,LM-83294,Wagen und Schlitten,Stations-/Telefonwagen,"Eidg. Ord. 1910/24, geschlossen, 4-rï¿½drig, mit Bocksitz. Inhalt: ï¿½bermittlungstruppen. Herstellung: Zï¿½rich. Datiert nach Marke 1913. Herkunft: Eidg. Zeughaus, Rapperswil. 246 x 339 x 168 cm. Holz. Sperrholz. Eisen, geschmiedet, gewalzt. Eisenblech. Glas. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 137 (3 Aufnahmen) 'Stationswagen 1910, K+W 1261/1262/1263 (Innenaufnahme mit Telefon/Telegrafen-Ausrüstung)', Abb. 141 (2 Aufnahmen) 'Stationswagen 1910 f. Fk., K+W 1275/1276 ('Innenaufnahme mit Funk-Ausrüstung)'.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106026. ",1913,Zürich. ,  ,Übermittlungstruppen. ,"Höhe 246 cm, Länge 339 cm, Breite 168 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien der Div. Fuhrwerke (Fourgon), Bd. 2, Thun o.J., Abb. 137 (3 Aufnahmen) 'Stationswagen 1910, K+W 1261/1262/1263 (Innenaufnahme mit Telefon/Telegrafen-Ausrï¿½stung)', Abb. 141 (2 Aufnahmen) 'Stationswagen 1910 f. Fk., K+W 1275/1276 ('Innenaufnahme mit Funk-Ausrï¿½stung)'.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106026. ",1913,Zï¿½rich. ,  ,ï¿½bermittlungstruppen. ,"Hï¿½he 246 cm, Lï¿½nge 339 cm, Breite 168 cm.
 Rad: Durchmesser 88 cm (vorne).
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 325 cm.","Holz. Sperrholz. Eisen, geschmiedet, gewalzt. Eisenblech. Glas."
-381573,LM-83295.1-2,Wagen und Schlitten,Schanzzeugwagen,"4-rädrig, ohne Bocksitz, mit Dachgalerie und Halterungen für Pickelhauen. Inhalt: Infanterie. Eidg. Ord. 1881. Herkunft: Eidg. Zeughaus, Rapperswil. 221 x 400 x 160 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 325 cm.","Holz. Sperrholz. Eisen, geschmiedet, gewalzt. Eisenblech. Glas."
+381573,LM-83295.1-2,Wagen und Schlitten,Schanzzeugwagen,"4-rï¿½drig, ohne Bocksitz, mit Dachgalerie und Halterungen fï¿½r Pickelhauen. Inhalt: Infanterie. Eidg. Ord. 1881. Herkunft: Eidg. Zeughaus, Rapperswil. 221 x 400 x 160 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-MD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matériel des Troupes du Génie suisse - Edition officielle, Bern: EMD, 1896, Tafel 89 'Werkzeugwagen der Landwehr-Sappeur-Kompagnien. Ordonanz 1881. Genie - Chariot d'outils des compagnies de sapeur de Landwehr. Ordonnance 1881. Génie'. ",1881,,  ,Infanterie. ,"Höhe 221 cm, Länge 400 cm, Breite 160 cm.
+MD [Hrsg.]: Fuhrwerke und Material der schweizerischen Genietruppen - Offizielle Ausgabe / Voitures et Matï¿½riel des Troupes du Gï¿½nie suisse - Edition officielle, Bern: EMD, 1896, Tafel 89 'Werkzeugwagen der Landwehr-Sappeur-Kompagnien. Ordonanz 1881. Genie - Chariot d'outils des compagnies de sapeur de Landwehr. Ordonnance 1881. Gï¿½nie'. ",1881,,  ,Infanterie. ,"Hï¿½he 221 cm, Lï¿½nge 400 cm, Breite 160 cm.
 Rad: Durchmesser 102 cm (vorne).
 Rad: Durchmesser 133 cm (hinten).
-Deichsel: Länge 341 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381577,LM-83296.1-3,Wagen und Schlitten,Gerätschaftswagen,"4-rädrig, mit langer, offener Brücke, ohne Bocksitz, mit Motorwagen-Zugdeichsel. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1923. Herkunft: Eidg. Zeughaus, Rapperswil. 147 x 451 x 170 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+Deichsel: Lï¿½nge 341 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+381577,LM-83296.1-3,Wagen und Schlitten,Gerï¿½tschaftswagen,"4-rï¿½drig, mit langer, offener Brï¿½cke, ohne Bocksitz, mit Motorwagen-Zugdeichsel. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1923. Herkunft: Eidg. Zeughaus, Rapperswil. 147 x 451 x 170 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 461 (2 Aufnahmen), 'Pont.Gerätschaftswagen, A.Betr. K+W 1118/1119' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106053. ",1923,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Pontoniere. ,"Höhe 147 cm, Länge 451 cm, Breite 170 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 461 (2 Aufnahmen), 'Pont.Gerï¿½tschaftswagen, A.Betr. K+W 1118/1119' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106053. ",1923,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Pontoniere. ,"Hï¿½he 147 cm, Lï¿½nge 451 cm, Breite 170 cm.
 Rad: Durchmesser 101 cm (vorne).
 Rad: Durchmesser 131 cm (hinten).
-Deichsel: Länge 300 cm (Pferdezug).
-Deichsel: Länge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-381579,LM-83297.1-2,Wagen und Schlitten,Schanzzeugwagen,"Eidg. Ord. 1910, 4-rädrig, hochbordiger, offener Kasten, ohne Bocksitz. Eidg. Ord. 1910. 
+Deichsel: Lï¿½nge 300 cm (Pferdezug).
+Deichsel: Lï¿½nge 116 cm (Motorfahrzeugzug).","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+381579,LM-83297.1-2,Wagen und Schlitten,Schanzzeugwagen,"Eidg. Ord. 1910, 4-rï¿½drig, hochbordiger, offener Kasten, ohne Bocksitz. Eidg. Ord. 1910. 
 
 Literatur:
 Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106041. ",1910,,,,,
-381580,LM-83298.1-2,Wagen und Schlitten,Fourgon,"Eidg. Ord. 1912, Vorrats-Wagen zu 12 cm Haub.-Batt., offene Brücke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 250 x 381 x 163 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
+381580,LM-83298.1-2,Wagen und Schlitten,Fourgon,"Eidg. Ord. 1912, Vorrats-Wagen zu 12 cm Haub.-Batt., offene Brï¿½cke und Bocksitz. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1914. Herkunft: Eidg. Zeughaus, Rapperswil. 250 x 381 x 163 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 60, 'K+W 1220' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106033. ",1914,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Artillerie. ,"Höhe 250 cm, Länge 381 cm, Breite 163 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Bd. 3, Thun: o. J., Abb. 60, 'K+W 1220' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106033. ",1914,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Artillerie. ,"Hï¿½he 250 cm, Lï¿½nge 381 cm, Breite 163 cm.
 Rad: Durchmesser 88 cm.
-Rad:  (hinten).Deichsel: Länge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
-375607,LM-83299,Wagen und Schlitten,Protze,"Protze zu 15 cm Haubitze mit umfangreicher Ausrüstung. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Eidg. Ord. 1916. Herkunft: Eidg. Zeughaus, Rapperswil. 173 x 227 x 193 cm. Holz. Stahl, gewalzt, geschmiedet. Stahlblech, gepresst. ",1916,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Artillerie. ,"Höhe 173 cm, Länge 227 cm, Breite 193 cm.
+Rad:  (hinten).Deichsel: Lï¿½nge 300 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech."
+375607,LM-83299,Wagen und Schlitten,Protze,"Protze zu 15 cm Haubitze mit umfangreicher Ausrï¿½stung. Inhalt: Artillerie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Eidg. Ord. 1916. Herkunft: Eidg. Zeughaus, Rapperswil. 173 x 227 x 193 cm. Holz. Stahl, gewalzt, geschmiedet. Stahlblech, gepresst. ",1916,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Artillerie. ,"Hï¿½he 173 cm, Lï¿½nge 227 cm, Breite 193 cm.
 Rad: Durchmesser 123 cm.","Holz. Stahl, gewalzt, geschmiedet. Stahlblech, gepresst."
-375608,LM-83300,Wagen und Schlitten,Rammenwagen,"Maschinenwagen, 4-rädrig, mit abprotzbarem 1-Zylinder-Dieselmotor und Seilwinde. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1939. Herkunft: Eidg. Zeughaus, Rapperswil. 230 x 518 x 182 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. Gusseisen. Stahlblech. Gummi. 
+375608,LM-83300,Wagen und Schlitten,Rammenwagen,"Maschinenwagen, 4-rï¿½drig, mit abprotzbarem 1-Zylinder-Dieselmotor und Seilwinde. Inhalt: Pontoniere. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1939. Herkunft: Eidg. Zeughaus, Rapperswil. 230 x 518 x 182 cm. Holz. Eisen, gewalzt, geschmiedet. Eisenblech. Gusseisen. Stahlblech. Gummi. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 402 (2 Aufnahmen) 'Rammgerätewagen (Hatzmot. mit Schlittenkufen) K+W 3220 bzw. K+W 6252 (mit dem heute vorhandenen Weber-Motor).
+- Eidg. Konstruktions-Werkstï¿½tte, Thun [Thun, Bibliothek SAM, ex. Besitz: Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe]: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun o.J., Abb. 402 (2 Aufnahmen) 'Rammgerï¿½tewagen (Hatzmot. mit Schlittenkufen) K+W 3220 bzw. K+W 6252 (mit dem heute vorhandenen Weber-Motor).
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 13.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106056. ",1939,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Pontoniere. ,"Höhe 230 cm, Länge 518 cm, Breite 182 cm.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106056. ",1939,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Pontoniere. ,"Hï¿½he 230 cm, Lï¿½nge 518 cm, Breite 182 cm.
 Rad: Durchmesser 93 cm (vorn und hinten).
-Deichsel: Länge 127 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech. Gusseisen. Stahlblech. Gummi."
-381581,LM-83301.1-3,Wagen und Schlitten,Caisson,"Eidg. Ord. 1894, 2-teilig, Protze mit Bocksitz und Hinterwagen. Inhalt: Infanterie. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1908. Herkunft: Eidg. Zeughaus, Rapperswil. 152 x 326 x 134 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 127 cm.","Holz. Eisen, gewalzt, geschmiedet. Eisenblech. Gusseisen. Stahlblech. Gummi."
+381581,LM-83301.1-3,Wagen und Schlitten,Caisson,"Eidg. Ord. 1894, 2-teilig, Protze mit Bocksitz und Hinterwagen. Inhalt: Infanterie. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1908. Herkunft: Eidg. Zeughaus, Rapperswil. 152 x 326 x 134 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
 Fuhrwerke, Bd. 2, Thun: o. J., Abb. 104, 'Inf. Caisson  1904 (mit Bleistift 1894), K+W 1105' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
@@ -474,71 +474,71 @@ Fuhrwerke, Bd. 2, Thun: o. J., Abb. 104, 'Inf. Caisson  1904 (mit Bleistift 1894
 - Hildebrand, Carl, Zeughaus-Chronik Thun 1857-1982, Liebefeld/Bern, 1982, Abb. S. 147: 
 'Fliegerabwehrschiessen mit MG Ord. 11'.
 - Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz.  Armeemuseum, AM 7228, 833-2004, Pos. 33.5) Blatt 106008.
-- Schweizerische Armee [Hrsg.]: Technisches Reglement Nr. 11 - Beladung der Saumtiere, Karren, Fuhrwerke und Motorlastwagen der Infanterie (Beladungs-Vorschriften), Provisorische Ausgabe, Bern, 1940, Bild 10/10a. ",1908,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Infanterie. ,"Fahrzeug: Höhe 152 cm, Länge 326 cm, Breite 134 cm.
-Vorderteil: Höhe 152 cm, Länge 154 cm, Breite 134 cm.
+- Schweizerische Armee [Hrsg.]: Technisches Reglement Nr. 11 - Beladung der Saumtiere, Karren, Fuhrwerke und Motorlastwagen der Infanterie (Beladungs-Vorschriften), Provisorische Ausgabe, Bern, 1940, Bild 10/10a. ",1908,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Infanterie. ,"Fahrzeug: Hï¿½he 152 cm, Lï¿½nge 326 cm, Breite 134 cm.
+Vorderteil: Hï¿½he 152 cm, Lï¿½nge 154 cm, Breite 134 cm.
 Rad: Durchmesser 103 cm (vorne).
-Hinterteil: Höhe 141 cm, Länge 185 cm, Breite 134 cm.
+Hinterteil: Hï¿½he 141 cm, Lï¿½nge 185 cm, Breite 134 cm.
 Rad: Durchmesser 103 cm (hinten).
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-381582,LM-83302.1-3,Wagen und Schlitten,Schanzzeugwagen,"2-teilig, aus Protze mit Bocksitz und Hinterwagen. Inhalt: Sappeure. Herstellung: Eidg. Konstruktionswerkstätte, Thun. Datiert nach Marke 1927. Herkunft: Eidg. Zeughaus, Rapperswil. 168 x 437 x 164 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+381582,LM-83302.1-3,Wagen und Schlitten,Schanzzeugwagen,"2-teilig, aus Protze mit Bocksitz und Hinterwagen. Inhalt: Sappeure. Herstellung: Eidg. Konstruktionswerkstï¿½tte, Thun. Datiert nach Marke 1927. Herkunft: Eidg. Zeughaus, Rapperswil. 168 x 437 x 164 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 402/403, 'Sappeurwagen 1927 (mit Bleistiftkorrektur 1924, K+W 1632/1633' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien von Geniematerial, Bd. 1, Thun: o. J., Abb. 402/403, 'Sappeurwagen 1927 (mit Bleistiftkorrektur 1924, K+W 1632/1633' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
 - Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1982, Abb. S. 113.
-- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106045. ",1927,"Eidg. Konstruktionswerkstätte, Thun. ",  ,Sappeure. ,"Fahrzeug: Höhe 168 cm, Länge 437 cm, Breite 164 cm.
-Vorderteil: Höhe 159 cm, Länge 181 cm, Breite 164 cm.
+- Kriegsmaterialverwaltung, Direktion der Zeughausbetriebe, Sektion Korps- und Reservematerial: Masskizzen div. Fuhrwerke (Schweiz. Armeemuseum, AM 7228, 833-2004, Pos. 33.5), Blatt 106045. ",1927,"Eidg. Konstruktionswerkstï¿½tte, Thun. ",  ,Sappeure. ,"Fahrzeug: Hï¿½he 168 cm, Lï¿½nge 437 cm, Breite 164 cm.
+Vorderteil: Hï¿½he 159 cm, Lï¿½nge 181 cm, Breite 164 cm.
 Rad: Durchmesser 103 cm (vorn).
-Hinterteil: Höhe 168 cm, Länge 263 cm, Breite 164 cm.
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-378119,LM-83303,Wagen und Schlitten,Fahrküche (Motorzug),"2-rädrig, Eidg. Ord. 1942, mit Luftbereifung und Kochherd Modell 1939. Inhalt: Verpflegungstruppen. Herstellung: Burgdorf. Datiert nach Marke 1944. Herkunft: Eidg. Zeughaus, Rapperswil. 235 x 374 x 213 cm. Stahlblech. Stahl, gewalzt. Stahlrohr. Gusseisen. Aluguss. Holz. Gummi. 
+Hinterteil: Hï¿½he 168 cm, Lï¿½nge 263 cm, Breite 164 cm.
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+378119,LM-83303,Wagen und Schlitten,Fahrkï¿½che (Motorzug),"2-rï¿½drig, Eidg. Ord. 1942, mit Luftbereifung und Kochherd Modell 1939. Inhalt: Verpflegungstruppen. Herstellung: Burgdorf. Datiert nach Marke 1944. Herkunft: Eidg. Zeughaus, Rapperswil. 235 x 374 x 213 cm. Stahlblech. Stahl, gewalzt. Stahlrohr. Gusseisen. Aluguss. Holz. Gummi. 
 
 Literatur:
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie II: Rohrücklaufgeschütze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. 212.
-- Schneider, Hugo Hrsg.]  /  Schild, Hermann: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - leichte und mittlere Fliegerabwehr, Fliegerabwehr-Lenkwaffen, Bd. 12, Dietikon-Zürich: Verlag Stocker-Schmied, 1982, Abb. 435. ",1944,Burgdorf. ,  ,Verpflegungstruppen. ,"Höhe 235 cm, Länge 374 cm, Breite 213 cm.
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie II: Rohrï¿½cklaufgeschï¿½tze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. 212.
+- Schneider, Hugo Hrsg.]  /  Schild, Hermann: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - leichte und mittlere Fliegerabwehr, Fliegerabwehr-Lenkwaffen, Bd. 12, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1982, Abb. 435. ",1944,Burgdorf. ,  ,Verpflegungstruppen. ,"Hï¿½he 235 cm, Lï¿½nge 374 cm, Breite 213 cm.
 Rad: Durchmesser 86 cm.","Stahlblech. Stahl, gewalzt. Stahlrohr. Gusseisen. Aluguss. Holz. Gummi."
-378120,LM-83304,Wagen und Schlitten,Gepäckanhänger,"4-rädrig, mit Luftbereifung, Drehschemellenkung und mechanischer Handbremse. Inhalt: Infanterie. Herstellung: Kriegstechnische Abteilung Bern, Bern. Datiert nach Marke 1951. Herkunft: Eidg. Zeughaus, Rapperswil. 165 x 605 x 188 cm (mit Deichsel). Stahl, gewalzt, geschmiedet. Eisen, geschmiedet. Eisenblech. Holz. Gummi. 
+378120,LM-83304,Wagen und Schlitten,Gepï¿½ckanhï¿½nger,"4-rï¿½drig, mit Luftbereifung, Drehschemellenkung und mechanischer Handbremse. Inhalt: Infanterie. Herstellung: Kriegstechnische Abteilung Bern, Bern. Datiert nach Marke 1951. Herkunft: Eidg. Zeughaus, Rapperswil. 165 x 605 x 188 cm (mit Deichsel). Stahl, gewalzt, geschmiedet. Eisen, geschmiedet. Eisenblech. Holz. Gummi. 
 
 Literatur:
-Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1882. ",1951,"Kriegstechnische Abteilung Bern, Bern. ",  ,Infanterie. ,"Fahrzeug: Höhe 165 cm, Länge 605 cm, Breite 188 cm (mit Deichsel).
-Fahrzeug: Höhe 165 cm, Länge 471 cm, Breite 188 cm (ohne Deichsel).
+Hildebrand, Carl: Zeughaus-Chronik Thun 1857-1982, Liebefeld / Bern: Lang Druck, 1882. ",1951,"Kriegstechnische Abteilung Bern, Bern. ",  ,Infanterie. ,"Fahrzeug: Hï¿½he 165 cm, Lï¿½nge 605 cm, Breite 188 cm (mit Deichsel).
+Fahrzeug: Hï¿½he 165 cm, Lï¿½nge 471 cm, Breite 188 cm (ohne Deichsel).
 Rad: Durchmesser 81 cm (vorn/hinten).","Stahl, gewalzt, geschmiedet. Eisen, geschmiedet. Eisenblech. Holz. Gummi."
-378121,LM-83305,Wagen und Schlitten,Gepäckanhänger,"4-rädrig, mit Luftbereifung, Achsschenkellenkung und mechanischer Auflaufbremse. Inhalt: Infanterie. Herstellung: Kriegstechnische Abteilung Bern. Datiert nach Marke 1956. Herkunft: Eidg. Zeughaus, Rapperswil. 169 x 621 x 188 cm (mit Deichsel). Stahl, gewalzt, geschmiedet. Stahlblech. Eisen, geschmiedet. Holz. Gummi. ",1956,Kriegstechnische Abteilung Bern. ,  ,Infanterie. ,"Fahrzeug: Höhe 169 cm, Länge 621 cm, Breite 188 cm (mit Deichsel).
-Fahrzeug: Höhe 169 cm, Länge 474 cm, Breite 188 cm (ohne Deichsel).
+378121,LM-83305,Wagen und Schlitten,Gepï¿½ckanhï¿½nger,"4-rï¿½drig, mit Luftbereifung, Achsschenkellenkung und mechanischer Auflaufbremse. Inhalt: Infanterie. Herstellung: Kriegstechnische Abteilung Bern. Datiert nach Marke 1956. Herkunft: Eidg. Zeughaus, Rapperswil. 169 x 621 x 188 cm (mit Deichsel). Stahl, gewalzt, geschmiedet. Stahlblech. Eisen, geschmiedet. Holz. Gummi. ",1956,Kriegstechnische Abteilung Bern. ,  ,Infanterie. ,"Fahrzeug: Hï¿½he 169 cm, Lï¿½nge 621 cm, Breite 188 cm (mit Deichsel).
+Fahrzeug: Hï¿½he 169 cm, Lï¿½nge 474 cm, Breite 188 cm (ohne Deichsel).
 Rad: Durchmesser 79 cm (vorn/hinten).","Stahl, gewalzt, geschmiedet. Stahlblech. Eisen, geschmiedet. Holz. Gummi."
-378122,LM-83306,Wagen und Schlitten,Fahrprotze zu Geschützen,"2-rädrig, Vorderachsgestell zu Flabkanone 43. Inhalt: Flieger/-abwehr. Eidg. Ord. 1943. Herkunft: Eidg. Zeughaus, Rapperswil. 55 x 318 x 110 cm (mit Gabel (Landen)). Holz. Eisen, geschmiedet, gewalzt. 
+378122,LM-83306,Wagen und Schlitten,Fahrprotze zu Geschï¿½tzen,"2-rï¿½drig, Vorderachsgestell zu Flabkanone 43. Inhalt: Flieger/-abwehr. Eidg. Ord. 1943. Herkunft: Eidg. Zeughaus, Rapperswil. 55 x 318 x 110 cm (mit Gabel (Landen)). Holz. Eisen, geschmiedet, gewalzt. 
 
 Literatur:
-Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Schild, Hermann: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - leichte und mittlere Fliegerabwehr, Fliegerabwehr-Lenkwaffen, Bd. 12, Dietikon-Zürich: Verlag Stocker-Schmied, 1982, Abb. 40. ",1943,,  ,Flieger/-abwehr. ,"Höhe 55 cm, Länge 318 cm, Breite 110 cm (mit Gabel (Landen)).
+Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Schild, Hermann: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - leichte und mittlere Fliegerabwehr, Fliegerabwehr-Lenkwaffen, Bd. 12, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1982, Abb. 40. ",1943,,  ,Flieger/-abwehr. ,"Hï¿½he 55 cm, Lï¿½nge 318 cm, Breite 110 cm (mit Gabel (Landen)).
 Rad: Durchmesser 55 cm.","Holz. Eisen, geschmiedet, gewalzt."
-381585,LM-83307.1-3,Wagen und Schlitten,Protze,"7,5 cm Feldkanone 03/23 Rohr 370/Lafette No. 181, mit Protze und Ausrüstung. Inhalt: Artillerie. Eidg. Ord. 1903. Herkunft: Eidg. Zeughaus, Rapperswil. 157 x 182 x 168 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
+381585,LM-83307.1-3,Wagen und Schlitten,Protze,"7,5 cm Feldkanone 03/23 Rohr 370/Lafette No. 181, mit Protze und Ausrï¿½stung. Inhalt: Artillerie. Eidg. Ord. 1903. Herkunft: Eidg. Zeughaus, Rapperswil. 157 x 182 x 168 cm. Holz. Eisen, geschmiedet, gewalzt. Eisenblech. 
 
 Literatur:
-- Eidg. Konstruktions-Werkstätte, Thun: Verzeichnis über die Photographien der Geschütze & Art. Fuhrwerke, Thun: o. J., Abb. 6, 'K+W 1297' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
-- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrüstung der Schweizer Armee seit 1817 - Artillerie II: Rohrücklaufgeschütze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zürich: Verlag Stocker-Schmied, 1977, Abb. S. 26 Mitte. ",1903,,  ,Artillerie. ,"Vorderteil: Höhe 157 cm, Länge 182 cm, Breite 168 cm.
+- Eidg. Konstruktions-Werkstï¿½tte, Thun: Verzeichnis ï¿½ber die Photographien der Geschï¿½tze & Art. Fuhrwerke, Thun: o. J., Abb. 6, 'K+W 1297' [Thun, Bibliothek SAM, ex. Besitz Eidg. Kriegsmaterialverwaltung, Direktion Zeughausbetriebe].
+- Schneider, Hugo [Hrsg.]  /  Reinhart, Christian [Hrsg.]  /  am Rhyn, Michael [Hrsg.]  /  Sallaz, Kurt [Hrsg.]  /  Stutz, Walter: Bewaffnung und Ausrï¿½stung der Schweizer Armee seit 1817 - Artillerie II: Rohrï¿½cklaufgeschï¿½tze der Artillerie und der schweren Fliegerabwehr, Bd. 9, Dietikon-Zï¿½rich: Verlag Stocker-Schmied, 1977, Abb. S. 26 Mitte. ",1903,,  ,Artillerie. ,"Vorderteil: Hï¿½he 157 cm, Lï¿½nge 182 cm, Breite 168 cm.
 Rad: Durchmesser 130 cm.
-Deichsel: Länge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
-378240,LM-84172.1-4,Wagen und Schlitten,Personenwagen,"3-Rad-Rennwagen für eine Person, Solarmobil Oldtimer Nr. 64 der Tour de Sol. Herstellung: Wolfgang Scheich. 1984. 130 x 200 x 100 cm. ",1984,Wolfgang Scheich. ,,,"Höhe 130 cm, Länge 200 cm, Breite 100 cm.",
-381588,LM-84503,Wagen und Schlitten,Gerätschaftswagen,"2-rädriger leichter Anhänger/Handwagen zu Tankbüchse 41. Inhalt: Infanterie. Eidg. Ord. 1941. Herkunft: Eidg. Zeughaus, Rapperswil. 70 x 201 x 91 cm. Holz. Stahlblech. Stahlrohr. Gummi. ",1941,,  ,Infanterie. ,"Höhe 70 cm, Länge 201 cm, Breite 91 cm.
+Deichsel: Lï¿½nge 324 cm.","Holz. Eisen, geschmiedet, gewalzt. Eisenblech."
+378240,LM-84172.1-4,Wagen und Schlitten,Personenwagen,"3-Rad-Rennwagen fï¿½r eine Person, Solarmobil Oldtimer Nr. 64 der Tour de Sol. Herstellung: Wolfgang Scheich. 1984. 130 x 200 x 100 cm. ",1984,Wolfgang Scheich. ,,,"Hï¿½he 130 cm, Lï¿½nge 200 cm, Breite 100 cm.",
+381588,LM-84503,Wagen und Schlitten,Gerï¿½tschaftswagen,"2-rï¿½driger leichter Anhï¿½nger/Handwagen zu Tankbï¿½chse 41. Inhalt: Infanterie. Eidg. Ord. 1941. Herkunft: Eidg. Zeughaus, Rapperswil. 70 x 201 x 91 cm. Holz. Stahlblech. Stahlrohr. Gummi. ",1941,,  ,Infanterie. ,"Hï¿½he 70 cm, Lï¿½nge 201 cm, Breite 91 cm.
 Rad: Durchmesser 67 cm.",Holz. Stahlblech. Stahlrohr. Gummi.
-396345,LM-94408,Wagen und Schlitten,Rodelschlitten,"Schlitten 'Grönland'. Mit beidseitiger Steuervorrichtung. Herstellung: Klosters. 1900 - 1950. 40,5 x 109 x 54 cm. Holz. Kufe: Eisen. ",1900 - 1950  ,Klosters. ,,,"Höhe 40.5 cm, Länge 109 cm, Breite 54 cm.",Holz. Kufe: Eisen.
-304131,LM-94410,Wagen und Schlitten,Kinderschlitten,"Bemalt: auf rotem Grund schwarzes Flammenmotiv, Brennmarke PBJ. 1800 - 1900. Herkunft: Zürich. Holz, bemalt. ",1800 - 1900  ,,  ,,,"Holz, bemalt."
-304130,LM-94429,Wagen und Schlitten,Rodelschlitten,Rodelschlitten. Mit Eisenbeschlägen. Rot/gelbe bzw. weiss-grüne Bemalung. 1800 - 1900. 24 x 62 x 34 cm. Holz. Eisen. ,1800 - 1900  ,,,,"Höhe 24 cm, Länge 62 cm, Breite 34 cm.",Holz. Eisen.
-395362,LM-94431,Wagen und Schlitten,Grasschlitten,Schlitten für Benützung auf Gras. Herstellung: Wallis (gemäss Angaben v. Verkäufer). Wohl 1950. 25 x 151 x 34 cm. Holz. ,1950,Wallis (gemäss Angaben v. Verkäufer). ,,,"Höhe 25 cm, Länge 151 cm, Breite 34 cm.",Holz.
-405484,LM-99363.1-3,Wagen und Schlitten,Pferdeschlitten,"Einspänner-Schlitten, sog. Herrenschlitten aus Rüeggisberg. Um 1880. 143 x 200 x 119 cm (Spur: 109 cm). 
+396345,LM-94408,Wagen und Schlitten,Rodelschlitten,"Schlitten 'Grï¿½nland'. Mit beidseitiger Steuervorrichtung. Herstellung: Klosters. 1900 - 1950. 40,5 x 109 x 54 cm. Holz. Kufe: Eisen. ",1900 - 1950  ,Klosters. ,,,"Hï¿½he 40.5 cm, Lï¿½nge 109 cm, Breite 54 cm.",Holz. Kufe: Eisen.
+304131,LM-94410,Wagen und Schlitten,Kinderschlitten,"Bemalt: auf rotem Grund schwarzes Flammenmotiv, Brennmarke PBJ. 1800 - 1900. Herkunft: Zï¿½rich. Holz, bemalt. ",1800 - 1900  ,,  ,,,"Holz, bemalt."
+304130,LM-94429,Wagen und Schlitten,Rodelschlitten,Rodelschlitten. Mit Eisenbeschlï¿½gen. Rot/gelbe bzw. weiss-grï¿½ne Bemalung. 1800 - 1900. 24 x 62 x 34 cm. Holz. Eisen. ,1800 - 1900  ,,,,"Hï¿½he 24 cm, Lï¿½nge 62 cm, Breite 34 cm.",Holz. Eisen.
+395362,LM-94431,Wagen und Schlitten,Grasschlitten,Schlitten fï¿½r Benï¿½tzung auf Gras. Herstellung: Wallis (gemï¿½ss Angaben v. Verkï¿½ufer). Wohl 1950. 25 x 151 x 34 cm. Holz. ,1950,Wallis (gemï¿½ss Angaben v. Verkï¿½ufer). ,,,"Hï¿½he 25 cm, Lï¿½nge 151 cm, Breite 34 cm.",Holz.
+405484,LM-99363.1-3,Wagen und Schlitten,Pferdeschlitten,"Einspï¿½nner-Schlitten, sog. Herrenschlitten aus Rï¿½eggisberg. Um 1880. 143 x 200 x 119 cm (Spur: 109 cm). 
 
 Literatur:
-A. Furger in ZAK, Band 66/2009, Heft 1, Seite 8. ",1880,,,,"Höhe 143 cm, Länge 200 cm, Breite 119 cm (Spur: 109 cm).
-Höhe 153 cm, Länge 205 cm, Breite 121 cm ( mit Lampen).",
-405485,LM-99364,Wagen und Schlitten,Schlitten,"Leichen(wagen)-Schlitten für einspännigen Pferdezug. Um 1900. Herkunft: Hirzel. 182 x 298 x 100 cm. 
+A. Furger in ZAK, Band 66/2009, Heft 1, Seite 8. ",1880,,,,"Hï¿½he 143 cm, Lï¿½nge 200 cm, Breite 119 cm (Spur: 109 cm).
+Hï¿½he 153 cm, Lï¿½nge 205 cm, Breite 121 cm ( mit Lampen).",
+405485,LM-99364,Wagen und Schlitten,Schlitten,"Leichen(wagen)-Schlitten fï¿½r einspï¿½nnigen Pferdezug. Um 1900. Herkunft: Hirzel. 182 x 298 x 100 cm. 
 
 Literatur:
-A. Furger in ZAK, Band 66/2009, Heft 1, Seite 39. ",1900,,  ,,"Höhe 182 cm, Länge 298 cm, Breite 100 cm.",
-418504,LM-99895.1-3,Wagen und Schlitten,Getriebeteil,"Zahnräder für Raketengetriebe. Herstellung: Maag-Zahnräder AG (bis 2005). 1990 - 2000. Stahl, geschmiedet. ",1990 - 2000,Maag-Zahnräder AG (bis 2005). ,,,,"Stahl, geschmiedet."
-415918,LM-109555,Wagen und Schlitten,Kinderwagen,"Weiss bemalt. Lederbezogener Korb auf Gestell. Hinten 2 grosse, vorne 2 kleinere vollgummibereifte Räder. 1900 - 1910. 97 x 120 x 60 cm. Korb: Weiden, geflochten. Gestell: Eisen. ",1900 - 1910  ,,,,"Höhe 97 cm, Länge 120 cm, Breite 60 cm.","Korb: Weiden, geflochten. Gestell: Eisen."
-421649,LM-114046,Wagen und Schlitten,Flugzeug,Modell eines Kampfflugzeuges: EurofighterTyphoon. Die Schweiz will neue Kampfflugzeuge beschaffen - der Eurofighter steht gegen den Gripen. Wird 2014 aber in einer Volksabstimmung. Dez. 2009. 20 x 34 x 23 cm. Holz. ,12.2009,,,,"Höhe 20 cm, Länge 34 cm, Breite 23 cm.",Holz.
-423198,LM-115810,Wagen und Schlitten,Kinderwagen,"Hinten 2 grosse, vorne 2 kleinere nicht bereifte Eisenräder. Mit aufklapbarem Verdeck in der Fahrtrichtung. 1900 - 1910. 91 x 128 x 66 cm (Verdeck unten). Korb: Weiden, geflochten. Gestell, Räder: Eisen. Bezug: Leinen. Verdeck: Leder. ",1900 - 1910  ,,,,"Verdeck unten: Höhe 91 cm, Länge 128 cm, Breite 66 cm.","Korb: Weiden, geflochten. Gestell, Räder: Eisen. Bezug: Leinen. Verdeck: Leder."
-423530,LM-116018,Wagen und Schlitten,Elektrofahrrad,Elektrovelo 'Flyer' der Firma Biketec AG. 2000. 102 x 178 cm. Metall. ,2000,,,,"Höhe 102 cm, Länge 178 cm.",Metall.
-423816,LM-116261.1-21,Wagen und Schlitten,Feuerspritze,Saug-Druck-Spritze mit diversem Zubehör der Gemeinde Mervelier. Herstellung: Burgdorf. Datiert nach Inschrift 1886. Herkunft: Mervelier. ,1886,Burgdorf. ,  ,,,
-428382,LM-118729.1-3,Wagen und Schlitten,Schlitten,"Landauer-Schlitten für 4 Personen, mit aufklappbarem Verdeck, ein- un zweispännig zu fahren. Datiert Okt. 1882. 165 x 300 x 155 cm. 750 g. Kasten: Ahornholz. Spriegel des Verdecks: Kirschbaumholz. Verdeck: Leder. ",10.1882,,,,"Höhe 165 cm, Länge 300 cm, Breite 155 cm, Gewicht 750 g.",Kasten: Ahornholz. Spriegel des Verdecks: Kirschbaumholz. Verdeck: Leder.
-481250,LM-170069,Wagen und Schlitten,Kinderwagen,"Korb auf Gestell mit geschwungenen Federn und Griff. 4 gleichgrosse vollgummibereifte Räder. 1900 - 1910. 94 x 127 x 50 cm. Korb: Weiden, geflochten. Gestell: Eisen. Griff: Holz, gedrechselt. ",1900 - 1910  ,,,,"Höhe 94 cm, Länge 127 cm, Breite 50 cm.","Korb: Weiden, geflochten. Gestell: Eisen. Griff: Holz, gedrechselt."
-481251,LM-170070,Wagen und Schlitten,Kinderwagen,"Weiss bemalt. Lederbezogener Korb auf Gestell. 4 gleichgrosse vollgummibereifte Räder. Mit zusammenklappbarem Verdeck umgekehrt zur Fahrtrichtung und Sitzbrett. 1900 - 1910. 90 x 126,5 x 59 cm (Verdeck zusammengeklappt). Korb: Weiden, geflochten. Gestell: Eisen. Verdeck: Leder. Griffstangen: Metall, verchromt. ",1900 - 1910  ,,,,"Verdeck zusammengeklappt: Höhe 90 cm, Länge 126.5 cm, Breite 59 cm.","Korb: Weiden, geflochten. Gestell: Eisen. Verdeck: Leder. Griffstangen: Metall, verchromt."
+A. Furger in ZAK, Band 66/2009, Heft 1, Seite 39. ",1900,,  ,,"Hï¿½he 182 cm, Lï¿½nge 298 cm, Breite 100 cm.",
+418504,LM-99895.1-3,Wagen und Schlitten,Getriebeteil,"Zahnrï¿½der fï¿½r Raketengetriebe. Herstellung: Maag-Zahnrï¿½der AG (bis 2005). 1990 - 2000. Stahl, geschmiedet. ",1990 - 2000,Maag-Zahnrï¿½der AG (bis 2005). ,,,,"Stahl, geschmiedet."
+415918,LM-109555,Wagen und Schlitten,Kinderwagen,"Weiss bemalt. Lederbezogener Korb auf Gestell. Hinten 2 grosse, vorne 2 kleinere vollgummibereifte Rï¿½der. 1900 - 1910. 97 x 120 x 60 cm. Korb: Weiden, geflochten. Gestell: Eisen. ",1900 - 1910  ,,,,"Hï¿½he 97 cm, Lï¿½nge 120 cm, Breite 60 cm.","Korb: Weiden, geflochten. Gestell: Eisen."
+421649,LM-114046,Wagen und Schlitten,Flugzeug,Modell eines Kampfflugzeuges: EurofighterTyphoon. Die Schweiz will neue Kampfflugzeuge beschaffen - der Eurofighter steht gegen den Gripen. Wird 2014 aber in einer Volksabstimmung. Dez. 2009. 20 x 34 x 23 cm. Holz. ,12.2009,,,,"Hï¿½he 20 cm, Lï¿½nge 34 cm, Breite 23 cm.",Holz.
+423198,LM-115810,Wagen und Schlitten,Kinderwagen,"Hinten 2 grosse, vorne 2 kleinere nicht bereifte Eisenrï¿½der. Mit aufklapbarem Verdeck in der Fahrtrichtung. 1900 - 1910. 91 x 128 x 66 cm (Verdeck unten). Korb: Weiden, geflochten. Gestell, Rï¿½der: Eisen. Bezug: Leinen. Verdeck: Leder. ",1900 - 1910  ,,,,"Verdeck unten: Hï¿½he 91 cm, Lï¿½nge 128 cm, Breite 66 cm.","Korb: Weiden, geflochten. Gestell, Rï¿½der: Eisen. Bezug: Leinen. Verdeck: Leder."
+423530,LM-116018,Wagen und Schlitten,Elektrofahrrad,Elektrovelo 'Flyer' der Firma Biketec AG. 2000. 102 x 178 cm. Metall. ,2000,,,,"Hï¿½he 102 cm, Lï¿½nge 178 cm.",Metall.
+423816,LM-116261.1-21,Wagen und Schlitten,Feuerspritze,Saug-Druck-Spritze mit diversem Zubehï¿½r der Gemeinde Mervelier. Herstellung: Burgdorf. Datiert nach Inschrift 1886. Herkunft: Mervelier. ,1886,Burgdorf. ,  ,,,
+428382,LM-118729.1-3,Wagen und Schlitten,Schlitten,"Landauer-Schlitten fï¿½r 4 Personen, mit aufklappbarem Verdeck, ein- un zweispï¿½nnig zu fahren. Datiert Okt. 1882. 165 x 300 x 155 cm. 750 g. Kasten: Ahornholz. Spriegel des Verdecks: Kirschbaumholz. Verdeck: Leder. ",10.1882,,,,"Hï¿½he 165 cm, Lï¿½nge 300 cm, Breite 155 cm, Gewicht 750 g.",Kasten: Ahornholz. Spriegel des Verdecks: Kirschbaumholz. Verdeck: Leder.
+481250,LM-170069,Wagen und Schlitten,Kinderwagen,"Korb auf Gestell mit geschwungenen Federn und Griff. 4 gleichgrosse vollgummibereifte Rï¿½der. 1900 - 1910. 94 x 127 x 50 cm. Korb: Weiden, geflochten. Gestell: Eisen. Griff: Holz, gedrechselt. ",1900 - 1910  ,,,,"Hï¿½he 94 cm, Lï¿½nge 127 cm, Breite 50 cm.","Korb: Weiden, geflochten. Gestell: Eisen. Griff: Holz, gedrechselt."
+481251,LM-170070,Wagen und Schlitten,Kinderwagen,"Weiss bemalt. Lederbezogener Korb auf Gestell. 4 gleichgrosse vollgummibereifte Rï¿½der. Mit zusammenklappbarem Verdeck umgekehrt zur Fahrtrichtung und Sitzbrett. 1900 - 1910. 90 x 126,5 x 59 cm (Verdeck zusammengeklappt). Korb: Weiden, geflochten. Gestell: Eisen. Verdeck: Leder. Griffstangen: Metall, verchromt. ",1900 - 1910  ,,,,"Verdeck zusammengeklappt: Hï¿½he 90 cm, Lï¿½nge 126.5 cm, Breite 59 cm.","Korb: Weiden, geflochten. Gestell: Eisen. Verdeck: Leder. Griffstangen: Metall, verchromt."
