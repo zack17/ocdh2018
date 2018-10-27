@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { BrowserRouter as Router } from "react-router-dom";
+import ApolloClient from "apollo-boost";
+import { ApolloProvider } from "react-apollo";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
-import ApolloClient from "apollo-boost";
-import { ApolloProvider } from "react-apollo";
 
 const client = new ApolloClient({
   uri: "https://api-euwest.graphcms.com/v1/cjnr7i2yb0bje01glv5s68dio/master",
@@ -15,7 +16,9 @@ const client = new ApolloClient({
 
 ReactDOM.render(
   <ApolloProvider client={client}>
-    <App />
+    <Router>
+      <App />
+    </Router>
   </ApolloProvider>,
   document.getElementById("root")
 );
