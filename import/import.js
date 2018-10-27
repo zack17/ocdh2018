@@ -14,40 +14,45 @@ const client = new ApolloClient({
     }
 });
 
-function importcsv () {
-    const csv = fs.readFileSync("raw/Technologie_Brauchtum.csv", "utf-8");
+function startImport (){
+    const csv = fs.readFileSync("raw/Technologie_Brauchtum.csv", "latin1");
     const data = papa.parse(csv, {header: true});
-    console.log(data.data[0].datierung);
 
-    for (var i=0; i<data.data.length; i++) {
-        console.log(data.data[i].datierung);
+    const rows = data.data;
+
+    for (var i=0; i<3; i++) {
+        pushToTheCloudWhereItBelongsTo(rows[i])
     }
+
 }
 
-function pushToTheCloudWhereItBelongsTo () {
+function pushToTheCloudWhereItBelongsTo (row) {
+console.log(row.webtext);
     client
     .mutate({
       mutation: gql`
-          mutation {
+          mutation CreateObject ($description : String) {
               createObject(
                   data: {
-                  description: "dieser eintrag wurde importiert",
-                  dateFrom: "2018-10-27T13:00:00.000Z"
-                  dateTo:"2018-10-27T15:00:00.000Z"
+                  description: $description,
+                  yearfrom: 2018,
+                  yearto:2019
                   }) 
-              {
-                  id
-                  description
-                  dateFrom
-                  dateTo
-              }
+               {
+                   description,
+                   yearfrom,
+                   yearto
+               }
           }
-      `
+      `,
+      variables: {
+          description : row.webtext
+      }
     })
     .then(result => console.log(result)); 
 }
 
-importcsv();
+startImport();
 
 
 
