@@ -24,8 +24,8 @@ function selectCriteriasFor(object, numMatchingCriterias) {
     possibleCriterias.push("producer");
   }
 
-  if (object.classifier) {
-    possibleCriterias.push("classifier");
+  if (object.classification) {
+    possibleCriterias.push("classification");
   }
 
   const selectedCriterias = [];
@@ -37,14 +37,16 @@ function selectCriteriasFor(object, numMatchingCriterias) {
 }
 
 function buildWhereClause(to, numMatchingCriterias) {
-  let where = "where: {";
+  let where = `where: { id_not: "${to.id}"\n`;
 
   for (const criteria of selectCriteriasFor(to, numMatchingCriterias)) {
     if (criteria === "year") {
       where += `AND: [{yearfrom_lte: ${to.yearto}, yearto_gte: ${
         to.yearfrom
       }}]`;
-    } else if (["origin", "producer", "classifier"].indexOf(criteria) !== -1) {
+    } else if (
+      ["origin", "producer", "classification"].indexOf(criteria) !== -1
+    ) {
       where += `${criteria}: {id: "${to[criteria].id}"}\n`;
     }
   }
@@ -54,13 +56,6 @@ function buildWhereClause(to, numMatchingCriterias) {
 
 export function SimilarObjectCard({ to, numMatchingCriterias }) {
   const whereClause = buildWhereClause(to, numMatchingCriterias);
-  console.log(`{
-    objectsConnection(${whereClause}) {
-      aggregate {
-        count
-      }
-    }
-  }`);
 
   return (
     <Query
@@ -103,6 +98,10 @@ export function SimilarObjectCard({ to, numMatchingCriterias }) {
                 }
                 if (error) {
                   return <Error error={error} />;
+                }
+
+                if (data.objects.length === 0) {
+                  return <h1>Nooo</h1>;
                 }
 
                 return <ObjectCard object={data.objects[0]} />;
