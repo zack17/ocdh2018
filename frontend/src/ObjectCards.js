@@ -13,6 +13,7 @@ import {
   SameClassificationAndYearWhereClause,
   SameProducerAndYearWhereClause
 } from "./fragments";
+import { ObjectCard } from "./ObjectCard";
 
 function pickOne(from) {
   const index = (Math.random() * from.length) | 0;
@@ -32,7 +33,7 @@ function shuffle(a) {
   return a;
 }
 
-export function RelatedObjects({ to }) {
+export function ObjectCards({ to }) {
   const query = gql`
     query RelationCounts($id: ID!, $yearFrom: Int!, $yearTo: Int!) {
       sameYear: objectsConnection(
@@ -140,7 +141,7 @@ export function RelatedObjects({ to }) {
           result => result.count > 0
         );
 
-        const otherCards = [<RandomObjectCard />];
+        const otherCards = [<RandomObjectCard key="random" />];
         if (twoCriteriasWithResults.length > 0) {
           const { criteria, count } = pickOne(twoCriteriasWithResults);
           otherCards.push(
@@ -180,6 +181,15 @@ export function RelatedObjects({ to }) {
         }
 
         shuffle(otherCards);
+
+        return (
+          <div className="container">
+            <div className="row">
+              <ObjectCard object={to} />
+              {otherCards}
+            </div>
+          </div>
+        );
 
         return <>{otherCards}</>;
       }}

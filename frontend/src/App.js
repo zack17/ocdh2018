@@ -6,7 +6,7 @@ import { ObjectView } from "./ObjectView";
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App mt-4 mb-4 mr-4 ml-4">
         <Route path="/" exact component={ObjectView} />
         <Route path="/objects/:objectId" exact component={ObjectView} />
       </div>

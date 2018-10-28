@@ -3,11 +3,9 @@ import { Query } from "react-apollo";
 import gql from "graphql-tag";
 import { ObjectCard } from "./ObjectCard";
 import { ObjectDetailsFragment } from "./fragments";
-import { RandomObjectCard } from "./RandomObjectCard";
 import { Loader } from "./Loader";
 import { Error } from "./Error";
-import { SimilarObjectCard } from "./SimilarObjectCard";
-import { RelatedObjects } from "./RelatedObjects";
+import { ObjectCards } from "./ObjectCards";
 
 export function ObjectView(props) {
   const objectId = props.match.params.objectId;
@@ -46,12 +44,7 @@ export function ObjectView(props) {
 
         const [object] = data.objects;
 
-        return (
-          <div>
-            <ObjectCard object={object} />
-            <RelatedObjects to={object} />
-          </div>
-        );
+        return <ObjectCards to={object} />;
       }}
     </Query>
   );
