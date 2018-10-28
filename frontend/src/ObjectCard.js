@@ -12,7 +12,8 @@ export function ObjectCard({ object }) {
             src={`https://media.graphcms.com/resize=width:500,height:500,fit:crop,align:center/compress/${
               object.picture.handle
             }`}
-            alt={object.description}
+            alt={object.classification.name}
+            title={object.description}
           />
         </Link>
 
