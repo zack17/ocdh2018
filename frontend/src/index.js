@@ -14,9 +14,11 @@ const client = new ApolloClient({
   }
 });
 
+console.log(process.env.PUBLIC_URL);
+
 ReactDOM.render(
   <ApolloProvider client={client}>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <App />
     </Router>
   </ApolloProvider>,

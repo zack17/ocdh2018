@@ -1,7 +1,6 @@
 import React from "react";
 import { Query } from "react-apollo";
 import gql from "graphql-tag";
-import { ObjectCard } from "./ObjectCard";
 import { ObjectDetailsFragment } from "./fragments";
 import { Loader } from "./Loader";
 import { Error } from "./Error";

@@ -8,12 +8,12 @@ class App extends Component {
   render() {
     return (
       <div className="App container">
-        <nav class="navbar navbar-dark bg-dark">
-          <Link class="navbar-brand" to="/">
+        <nav className="navbar navbar-dark bg-dark">
+          <Link className="navbar-brand" to="/">
             Artify
           </Link>
         </nav>
-        <main className=" mt-4 mb-4" style={{ "min-height": "420px" }}>
+        <main className=" mt-4 mb-4" style={{ minHeight: "420px" }}>
           <Route path="/" exact component={ObjectView} />
           <Route path="/objects/:objectId" exact component={ObjectView} />
         </main>
