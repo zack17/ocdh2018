@@ -9,7 +9,7 @@ export function ObjectCard({ object }) {
         <Link className="object-card" to={`/objects/${id}`}>
           <img
             className="card-img-top"
-            src={`https://media.graphcms.com/resize=width:500,height:500,fit:crop,align:center/compress/${
+            src={`https://media.graphcms.com/resize=width:500,fit:max/compress/${
               object.picture.handle
             }`}
             alt={object.classification.name}
