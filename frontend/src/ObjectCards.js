@@ -190,8 +190,6 @@ export function ObjectCards({ to }) {
             </div>
           </div>
         );
-
-        return <>{otherCards}</>;
       }}
     </Query>
   );
