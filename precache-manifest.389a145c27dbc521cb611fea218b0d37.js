@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ocdh2018/static/js/runtime~main.4d51bc98.js"
   },
   {
-    "revision": "56faed3746d171939c9e",
-    "url": "/ocdh2018/static/js/main.56faed37.chunk.js"
+    "revision": "b8cf82d78d89cec415c6",
+    "url": "/ocdh2018/static/js/main.b8cf82d7.chunk.js"
   },
   {
     "revision": "994cbd8a8048046f7846",
     "url": "/ocdh2018/static/js/1.994cbd8a.chunk.js"
   },
   {
-    "revision": "56faed3746d171939c9e",
+    "revision": "b8cf82d78d89cec415c6",
     "url": "/ocdh2018/static/css/main.817fff25.chunk.css"
   },
   {
-    "revision": "2fe2bd49394b10fa62ea1aaf63a34a55",
+    "revision": "d41261c2ebbe75c40bbd6f0c3f802040",
     "url": "/ocdh2018/index.html"
   }
 ];
